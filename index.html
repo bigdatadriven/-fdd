@@ -1283,11 +1283,16 @@
           <p>Join our mailing list to keep up to date with our upcoming events</p>
         </div>
 
-        <form method="POST" action="https://datadriven.m-pages.com/80jjMf/subscriber">
+        <form method="POST" action="#">
           <div class="row justify-content-center">
             <div class="col-lg-6 col-md-10 d-flex">
               <input type="text" class="form-control" id="useremail" placeholder="Enter your Email">
-              <button type="submit" onclick=adduser() class="ms-2">Subscribe</button>
+              <button type="submit" id="submit-button" onclick=adduser() class="ms-2">Subscribe</button><br>
+            </div>
+          </div>
+          <div style="display:none" id="thanksMessage">
+            <div style="align-content: right;">
+              <h4 style="color:greenyellow;">Thanks for subscribing! </h3>
             </div>
           </div>
         </form>
@@ -1585,7 +1590,9 @@
 
   <!--  moosend reference -->
   <script src="js/scripts.js"></script>
-
+  <script>
+    var disableButton = false;
+  </script>
 </body>
 
 </html>
