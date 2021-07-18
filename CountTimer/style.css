@@ -5,11 +5,11 @@ html {
 }
 
  
-/**ody {
+body {
   display: grid;
   background: #333;
 }
- **/
+ 
 .main {
   position: relative;
   margin: auto;
