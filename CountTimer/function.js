@@ -1,7 +1,7 @@
 /** code by webdevtrick ( https://webdevtrick.com ) **/
 //const year = new Date().getFullYear();
 //const choosenDate = new Date(year, 7, 6).getTime();
-const choosenDate = new Date('September 29, 2021 10:00:00')
+const choosenDate = new Date('April 30, 2022 08:45:00')
 let countdown = setInterval(function() {
  
   const today = new Date().getTime();
