@@ -7,7 +7,7 @@ html {
  
 body {
   display: grid;
-  background: #333;
+  background: rgb(131, 130, 130);
 }
  
 .main {
