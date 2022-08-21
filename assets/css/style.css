@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sections Header
 --------------------------------*/
 .section-header {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   position: relative;
   padding-bottom: 20px;
 }
@@ -100,11 +100,11 @@ h1, h2, h3, h4, h5, h6 {
   content: '';
   position: absolute;
   display: block;
-  width: 60px;
+  width: 250px;
   height: 5px;
   background: #f82249;
   bottom: 0;
-  left: calc(50% - 25px);
+  left: calc(50% - 125px);
 }
 
 .section-header h2 {
@@ -115,14 +115,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
-.section-header p {
-  text-align: center;
-  padding: 0;
-  margin: 0;
-  font-size: 18px;
-  font-weight: 500;
-  color: #9195a2;
-}
+    .section-header p {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        font-size: 30px;
+        font-weight: 500;
+        color: #9195a2;
+    }
 
 .section-with-bg {
   background-color: #f6f7fd;
@@ -1087,11 +1087,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 60px 0;
 }
 
-#supporters .supporters-wrap {
-  border-top: 1px solid #e0e5fa;
-  border-left: 1px solid #e0e5fa;
-  margin-bottom: 30px;
-}
+    #supporters .supporters-wrap {
+        border-top: 1px solid #e0e5fa;
+        border-left: 1px solid #e0e5fa;
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+    }
 
 #supporters .supporter-logo {
   padding: 30px;
