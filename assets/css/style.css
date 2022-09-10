@@ -1094,6 +1094,22 @@ h1, h2, h3, h4, h5, h6 {
         padding-bottom: 10px;
     }
 
+    #supporters .GoldSupporter-logo {
+        padding: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-right: 1px solid #e0e5fa;
+        border-bottom: 1px solid #e0e5fa;
+        overflow: hidden;
+        background: rgba(255, 255, 255, 0.5);
+        height: 400px;
+    }
+
+        #supporters .GoldSupporter-logo:hover img {
+            transform: scale(1.2);
+        }
+
     #supporters .SilverSupporter-logo {
         padding: 30px;
         display: flex;
@@ -1120,7 +1136,6 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(255, 255, 255, 0.5);
   height: 100px;
 }
-
 #supporters .supporter-logo:hover img {
   transform: scale(1.2);
 }
