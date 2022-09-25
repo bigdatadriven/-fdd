@@ -15,9 +15,10 @@ body {
 }
 
 a {
-  color: #f82249;
-  text-decoration: none;
-  transition: 0.5s;
+    /*color: #f82249;*/
+    color: orange;
+    /*text-decoration: none;*/
+    transition: 0.5s;
 }
 
 a:hover, a:active, a:focus {
@@ -646,7 +647,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   position: relative;
   color: #fff;
-  padding: 60px 0 40px 0;
+  padding: 20px 0 5px 0;
 }
 
 @media (min-width: 1024px) {
