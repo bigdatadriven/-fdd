@@ -3,8 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\CountTimer"
+    "\\assets\\js",
+    "\\assets\\vendor",
+    "\\CountTimer",
+    "\\forms",
+    "\\js",
+    "\\SponsorsLogo"
   ],
-  "SelectedNode": "\\About-Events.html",
+  "SelectedNode": "\\assets\\vendor",
   "PreviewInSolutionExplorer": false
 }
