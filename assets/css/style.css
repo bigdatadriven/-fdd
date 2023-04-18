@@ -6,14 +6,83 @@
 */
 
 /*--------------------------------------------------------------
-# General
+# Cleaning style!
 --------------------------------------------------------------*/
 body {
-  background: #fff;
-  color: #2f3138;
-  font-family: "Open Sans", sans-serif;
+    background: rgb(131, 130, 130);
+    color: #2f3138;
+    font-family: "Open Sans", sans-serif;
 }
 
+#countdown {
+    /*display: grid;*/
+    /*min-height: 100%;
+    color: #F6F4F3;*/
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+    font-size: 10px;
+    letter-spacing: 5px;
+    margin-top: 20px;
+}
+#countdown h1 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    margin-top: 2em;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #F6F4F3;
+}
+#countdown h1 sup {
+    text-transform: lowercase;
+    color: #FF3E41;
+}
+
+#countdown .days, .hours, .minutes, .seconds, .left {
+    display: inline-block;
+    padding: 10px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+    #countdown .days {
+        background: #D87200;
+    }
+
+    #countdown .hours {
+        background: #FF3E41;
+    }
+
+    #countdown .minutes {
+        background: #FFB20C;
+    }
+
+    #countdown .seconds {
+        background: #2186FF;
+    }
+
+    #countdown .left {
+        background: #E10A0A;
+    }
+
+    #countdown .c-number {
+        font-family: "Montserrat", sans-serif;
+        color: #333;
+        font-size: 3em;
+    }
+
+
+
+/*--------------------------------------------------------------
+# Sessions
+--------------------------------------------------------------*/
+#Sessions {
+}
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
 a {
     /*color: #f82249;*/
     color: orange;
@@ -451,7 +520,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  min-height:500px;
+  min-height:530px;
   background: url(../img/hero-bg.jpg) top center;
   background-size: cover;
   overflow: hidden;
