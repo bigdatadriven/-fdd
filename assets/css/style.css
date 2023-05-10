@@ -211,10 +211,10 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
 }
 
-#header.header-scrolled, #header.header-inner {
-  background: rgba(6, 12, 34, 0.98);
-  height: 70px;
-}
+    #header.header-scrolled, #header.header-inner {
+        background: #2F3138; /*rgba(6, 12, 34, 0.98);*/
+        height: 70px;
+    }
 
 #header #logo h1 {
   font-size: 36px;
@@ -424,21 +424,46 @@ h1, h2, h3, h4, h5, h6 {
   .mobile-nav-toggle {
     display: block;
   }
-  .navbar ul {
+  #navbar1 ul {
     display: none;
   }
 }
 
+
+@media (max-width: 530px) {
+    #navbar2 {
+        display: none;
+    }
+}
+
+@media (max-width: 350px) {
+    #DDS2023_Banner {
+        display: none;
+    }
+}
+
+#DDS2023_year {
+    display: none;
+}
+@media (max-width: 350px) {
+    #DDS2023_year {
+        display: block;
+    }
+}
+
+
+
+
 .navbar-mobile {
-  position: fixed;
-  overflow: hidden;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.9);
-  transition: 0.3s;
-  z-index: 999;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.9);
+    transition: 0.3s;
+    z-index: 999;
 }
 
 .navbar-mobile .mobile-nav-toggle {
@@ -718,7 +743,7 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
     position: relative;
     color: #fff;
-    padding: 20px 0 5px 0;
+    padding: 10px 0 5px 0;
 }
 
 @media (min-width: 1024px) {
