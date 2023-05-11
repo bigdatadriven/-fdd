@@ -239,12 +239,6 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
-@media (max-width: 992px) {
-  #header #logo img {
-    max-height: 30px;
-  }
-}
-
 /*--------------------------------------------------------------
 # Buy Tickets
 --------------------------------------------------------------*/
@@ -420,32 +414,82 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
 }
 
-@media (max-width: 991px) {
-  .mobile-nav-toggle {
+
+.Show1250px {
     display: block;
-  }
-  #navbar1 ul {
-    display: none;
-  }
 }
 
+.Show800px {
+    display: none;
+}
 
-@media (max-width: 530px) {
-    #navbar2 {
+.Show550px {
+    display: none;
+}
+
+.mobile-nav-toggle {
+    display: none;
+}
+
+@media (max-width: 1250px) {
+    .Show1250px {
         display: none;
+    }
+
+    .Show800px {
+        display: block;
+    }
+
+    .Show550px {
+        display: none;
+    }
+
+    .mobile-nav-toggle {
+        display: block;
     }
 }
 
-@media (max-width: 350px) {
+
+@media (max-width: 800px) {
+    .Show1250px {
+        display: none;
+    }
+    .Show800px {
+        display: none;
+    }
+    .Show550px {
+        display: block;
+    }
+}
+
+@media (max-width: 550px) {
+    .Show1250px {
+        display: none;
+    }
+
+    .Show800px {
+        display: none;
+    }
+
+    .Show550px {
+        display: none;
+    }
     #DDS2023_Banner {
         display: none;
     }
 }
 
+@media (max-width: 500px) {
+    .Show500px {
+        display: none;
+    }
+}
+
+
 #DDS2023_year {
     display: none;
 }
-@media (max-width: 350px) {
+@media (max-width: 550px) {
     #DDS2023_year {
         display: block;
     }
@@ -589,23 +633,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 {
-  color: #fff;
-  font-family: "Raleway", sans-serif;
-  font-size: 56px;
-  font-weight: 600;
-  text-transform: uppercase;
+    color: #fff;
+    /*font-family: "Raleway", sans-serif;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: calc(20px + 4vw);
+    font-weight: 600;
+    /*text-transform: uppercase;*/
 }
-
+/*
 #hero h1 span {
   color: #f82249;
-}
-
-@media (max-width: 991px) {
+}*/
+/*This datalist thead size for small window*/
+/*@media (max-width: 991px) {
   #hero h1 {
     font-size: 34px;
   }
-}
+}*/
 
+#hero h2 {
+    color: #ebebeb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: calc(10px + 1.5vw);
+    font-weight: 600;
+}
 #hero p {
   color: #ebebeb;
   font-weight: 700;

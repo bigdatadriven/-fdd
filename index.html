@@ -42,11 +42,11 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css?version=4" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css?version=5" rel="stylesheet">
+    <link href="assets/css/style.css?version=6" rel="stylesheet">
 
     <!-- COUNT DOWN TIMER-->
-    <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat|Rubik+Mono+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="CountTimer\style.css?version=4">
+    <!--<link href="https://fonts.googleapis.com/css?family=Lato|Montserrat|Rubik+Mono+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CountTimer\style.css?version=4">-->
     <!-- END COUNT DOWN TIMER-->
 
 </head>
@@ -60,7 +60,7 @@
         <div class="container-fluid container-xxl d-flex align-items-center">
 
             <!-- Upper Left logo which link to home page -->
-            <div id="logo" class="me-auto">
+            <div id="logo" class="order-first me-auto">
                 <a href="index.html" class="scrollto">
                     <img src="assets/img/logo.png" alt="" title="">
                 </a>
@@ -68,12 +68,64 @@
 
             <!-- Top menu -->
             <!-- Adding class "active" will add the mark that this page is where we are (red line)-->
-            <nav id="navbar" class="navbar order-last order-lg-0">
+            <nav id="navbar" class="navbar order-0 order-lg-0">
                 <ul>
 
-                    <!--<li><a class="nav-link scrollto active" href="index.html">Home</a></li>-->
+                    <li class="dropdown Show550px">
+                        <a class="nav-link scrollto active" href="index.html">
+                            <spam style="font-family: cursive, Courier; letter-spacing: 1px;">Home</spam> <i class="bi bi-chevron-down"></i>
+                        </a>
+                        <ul>
+                            <li>
+                                <a class="nav-link scrollto" href="FutureDataDriven2023.html">
+                                    <spam>FDD</spam> <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link scrollto" href="index.html">
+                                    <spam>CDD</spam> <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link scrollto" href="https://communityselfadd.azurewebsites.net/GuestAdd/ZTNiZTdjYmEtMjI0ZS00ZDc3LWIzODEtMGQ1OWVkYTZhZWY0" target="_blank">
+                                    Teams
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link scrollto" href="CodeOfConducts.html">COC</a>
+                            </li>
+                        </ul>
 
-                    <li class="dropdown">
+                    </li>
+
+                    <li class="dropdown Show800px">
+                        <a class="nav-link scrollto active" href="index.html">
+                            <spam style="font-family: cursive, Courier; letter-spacing: 1px;">Data Driven Community (Home)</spam> <i class="bi bi-chevron-down"></i>
+                        </a>
+                        <ul>
+                            <li>
+                                <a class="nav-link scrollto" href="FutureDataDriven2023.html">
+                                    <spam>Future Data Driven</spam> <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link scrollto" href="index.html">
+                                    <spam>Cloud Data Driven</spam> <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link scrollto" href="https://communityselfadd.azurewebsites.net/GuestAdd/ZTNiZTdjYmEtMjI0ZS00ZDc3LWIzODEtMGQ1OWVkYTZhZWY0" target="_blank">
+                                    Join Teams
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link scrollto" href="CodeOfConducts.html">Code of conducts</a>
+                            </li>
+                        </ul>
+
+                    </li>
+
+                    <li class="dropdown Show1250px">
                         <a class="nav-link scrollto active" href="index.html">
                             <spam style="font-family: cursive, Courier; letter-spacing: 1px;">Data Driven Community (Home)</spam> <i class="bi bi-chevron-down"></i>
                         </a>
@@ -93,7 +145,7 @@
                     </li>
 
 
-                    <li class="dropdown">
+                    <li class="dropdown Show1250px">
                         <a class="nav-link scrollto" href="FutureDataDriven2023.html">
                             <spam>Future Data Driven Summits</spam> <i class="bi bi-chevron-down"></i>
                         </a>
@@ -125,7 +177,7 @@
                     </li>
 
 
-                    <li class="dropdown">
+                    <li class="dropdown Show1250px">
                         <a class="nav-link scrollto" href="index.html">
                             <spam>Cloud Data Driven (user group)</spam> <i class="bi bi-chevron-down"></i>
                         </a>
@@ -141,13 +193,14 @@
                             <li><a href="https://www.eventbrite.com/o/cloud-data-driven-32281579253">Evenbrite</a></li>
                             <li><a href="https://www.linkedin.com/groups/12531517/">LinkedIn User Group</a></li>
                         </ul>
-
+                        <!-- mobile-nav-toggle add style to previous element which hide the it when width smaller than XXX -->
+                        <i class="bi bi-list mobile-nav-toggle"></i>
                     </li>
 
                 </ul>
             </nav>
             <!-- .navbar -->
-            <a class="buy-tickets scrollto" href="https://www.eventbrite.com/e/future-data-driven-summit-2023-tickets-618186220627" target="_blank" rel="noopener noreferrer">
+            <a class="order-last buy-tickets scrollto Show500px" href="https://www.eventbrite.com/e/future-data-driven-summit-2023-tickets-618186220627" target="_blank" rel="noopener noreferrer">
                 Register Future Data Driven 2023
             </a>
 
@@ -159,9 +212,11 @@
     <a name="IndexOpening" id="IndexOpening"></a>
     <section id="hero">
         <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
-            <h1 class="mb-4 pb-0" style="font-family: Georgia, 'Times New Roman', Times, serif;">Data Driven Community</h1>
+            <h1 class="mb-4 pb-0">
+                Data Driven Community
+            </h1>
             <p class="mb-4 pb-0">Welcome to the Data Driven Community website...</p>
-            <canvas id="DemoCanvas" width="500" height="100"></canvas>
+            <canvas id="DemoCanvas"  width="500" height="100"></canvas>
             <script>
                 var canvas = document.getElementById('DemoCanvas');
                 if (canvas.getContext) {
@@ -177,7 +232,6 @@
 
                     context.moveTo(250, 10);
                     context.lineTo(450, 80);
-
                     context.moveTo(400, 40);
                     context.lineTo(450, 80);
                     context.moveTo(380, 85);
@@ -191,23 +245,20 @@
                 }
             </script>
 
-            <div style="width: 650px;">
-                <div style="width: 49%; float: left; text-align: left;">
-                    <p style="color: orange;">
-                        Future Data driven Summits
-                    </p>
-                </div>
-                <div style="width: 49%; float: left;text-align: right; ">
-                    <p style="color: orange;">
-                        Cloud Data Driven (User group)
-                    </p>
-                </div>
+            <div style="width: 90%;">
+                <h2 class="mb-4 pb-0" style="width: 49%; float: left; text-align: center; padding: 2px; color: orange;">
+                    Future Data driven Summits
+                </h2>
+                <h2 style="width: 49%; float: left; text-align: center; color: orange; ">
+                    Cloud Data Driven (User group)
+                </h2>
             </div>
 
             <div style="width: 650px;">
                 <p style="tab-size:10px">
-                    <a class="nav-link scrollto" href="index.html#IndexUpcoming" style="text-shadow: 1px 1px 2px red, 0 0 1em yellow, 0 0 0.2em blue; ">
-                        Scroll down to watch the upcoming events and more of the Data Driven Community's activities
+                    <a href="index.html#IndexUpcoming" class="nav-link scrollto"
+                       style="text-shadow: 1px 1px 2px red, 0 0 1em yellow, 0 0 0.2em blue; ">
+                        Scroll down or click to watch the upcoming events and more of the Data Driven Community's activities
                     </a>
                 </p>
             </div>
@@ -240,15 +291,6 @@
                         For more details, move to the <a class="scrollto" href="FutureDataDriven2023.html">summit page</a>
                     </p>
 
-                    <div style="width:49%;float: left;">
-                        <h3>Where</h3>
-                        <p>Online Virtual Event</p>
-                    </div>
-                    <div style="width:49%;float: left;">
-                        <h3>When</h3>
-                        <p>27 September, 2023</p>
-                    </div>
-                    <p style="clear: both;"></p>
                     <div class="col-lg-12">
                         <h3>Join the conference team on Teams!</h3>
                         <p>
@@ -270,19 +312,7 @@
                             Your donation will help us cover the costs of organizing this event and provide giveaways for our participants.
                             We have assembled a few sponsorship plans that you can select from.
                         </p>
-                        <!--<p style="color:whitesmoke;">
-                            Believe it or not, We're still struggling to find the right strategy to properly maintain our data or getting insight from it. That's why the Future Data Driven Summit brought you some of the best speakers out there that can deliver to us such a remarkably outstanding presentation!
-                        </p>-->
-                        <!--<p>
-        <a href="https://www.eventbrite.com/e/future-data-driven-summit-2023-sponsorship-tickets-619309319847" target="_blank">
 
-        </a>
-    </p>-->
-                        <!--<p>
-        <a href="" target="_blank">
-            Registration for sponsors Coming soon...
-        </a>
-    </p>-->
                     </div>
 
                     <div class="col-lg-12">
@@ -294,6 +324,15 @@
                         </p>
                     </div>
 
+                    <div style="width:49%;float: left;">
+                        <h3>Where</h3>
+                        <p>Online Virtual Event</p>
+                    </div>
+                    <div style="width:49%;float: left;">
+                        <h3>When</h3>
+                        <p>27 September, 2023</p>
+                    </div>
+                    <p style="clear: both;"></p>
                 </div>
                 <div class="col-lg-6" style="border-left: 1px dotted #0099ff;">
                     <h2>Cloud Data Driven (User Group)</h2>
