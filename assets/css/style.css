@@ -8,6 +8,14 @@
 /*--------------------------------------------------------------
 # Cleaning style!
 --------------------------------------------------------------*/
+
+.RightDownArrow {
+    line-height: 10px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
 body {
     background: rgb(131, 130, 130);
     color: #2f3138;
@@ -189,7 +197,7 @@ h1, h2, h3, h4, h5, h6 {
         text-align: center;
         padding: 0;
         margin: 0;
-        font-size: 30px;
+        font-size: x-large;
         font-weight: 500;
         color: #9195a2;
     }
@@ -393,15 +401,6 @@ h1, h2, h3, h4, h5, h6 {
   visibility: visible;
 }
 
-@media (max-width: 1366px) {
-  .navbar .dropdown .dropdown ul {
-    left: -90%;
-  }
-  .navbar .dropdown .dropdown:hover > ul {
-    left: -100%;
-  }
-}
-
 /**
 * Mobile Navigation 
 */
@@ -429,6 +428,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-toggle {
     display: none;
+}
+
+@media (max-width: 1366px) {
+    .navbar .dropdown .dropdown ul {
+        left: -90%;
+    }
+
+    .navbar .dropdown .dropdown:hover > ul {
+        left: -100%;
+    }
 }
 
 @media (max-width: 1250px) {
