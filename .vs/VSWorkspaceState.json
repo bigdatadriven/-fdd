@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CountTimer",
-    "\\forms",
-    "\\FutureDataDriven2023",
-    "\\js",
+    "\\assets",
+    "\\assets\\css",
     "\\SponsorsLogo"
   ],
-  "SelectedNode": "\\index02.html",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
