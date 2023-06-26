@@ -88,6 +88,41 @@ body {
 #Sessions {
 }
 
+
+/*#sessionize.sessionize-wrapper .sz-session--plenum .sz-session__card {
+    align-items: center;
+}*/
+/*hight of 15 minutes time block*/
+/*.sz-cssgrid.sz-cssgrid--45196 {
+    --fraction-size: 25px;
+}*/
+/*present the room name in each session*/
+/*#sessionize.sessionize-wrapper .sz-cssgrid .sz-session__room {
+    display: inline;
+}*/
+
+
+.SessionsIframe {
+    width: 97%;
+    height: 2000px;
+    /*height: calc(50% + 1250px);*/
+    overflow-y: hidden;
+    border: none;
+    /*frameborder ="0" style="width: 97%; height: 6000px; overflow-y: hidden;"*/
+}
+
+@media (max-width: 1100px) {
+    .SessionsIframe {
+        height: 2500px;
+    }
+}
+
+@media (max-width: 635px) {
+    .SessionsIframe {
+        height: 3400px;
+    }
+}
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
