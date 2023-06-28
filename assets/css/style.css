@@ -104,7 +104,7 @@ body {
 
 .SessionsIframe {
     width: 97%;
-    height: 2000px;
+    height: 2300px;
     /*height: calc(50% + 1250px);*/
     overflow-y: hidden;
     border: none;
