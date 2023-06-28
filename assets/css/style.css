@@ -104,6 +104,7 @@ body {
 
 .SessionsIframe {
     width: 97%;
+    min-width: 880px;
     height: 2300px;
     /*height: calc(50% + 1250px);*/
     overflow-y: hidden;
@@ -111,15 +112,27 @@ body {
     /*frameborder ="0" style="width: 97%; height: 6000px; overflow-y: hidden;"*/
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1300px) {
     .SessionsIframe {
-        height: 2500px;
+        height: 2700px;
     }
 }
 
-@media (max-width: 635px) {
+@media (max-width: 1140px) {
     .SessionsIframe {
-        height: 3400px;
+        height: 2900px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .SessionsIframe {
+        height: 3100px;
+    }
+}
+
+@media (max-width: 880px) {
+    .SessionsIframe {
+        height: 3300px;
     }
 }
 
