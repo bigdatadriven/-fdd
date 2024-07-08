@@ -905,7 +905,8 @@ h1, h2, h3, h4, h5, h6 {
   /* background: url("../img/about-bg.jpg"); */
   background-size: cover;
   overflow: hidden;
-  position: relative;
+  /* position: relative; This element background is impact by his father since we use 'relative' */
+  background-color: #0d1429; opacity: 0.8;
   color: #fff;
   padding: 20px 0 5px 0;
 }
@@ -917,13 +918,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about:before {
-  content: "";
-  background: rgba(13, 20, 41, 0.8);
-  position: absolute;
+  /* content: ""; */
+  /* background: rgba(13, 20, 41, 0.8); */
+  /* position: absolute;
   bottom: 0;
   top: 0;
   left: 0;
-  right: 0;
+  right: 0; */
 }
 
 #about h2 {
