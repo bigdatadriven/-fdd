@@ -266,8 +266,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
     #header.header-scrolled, #header.header-inner {
-        background: #2F3138; /*rgba(6, 12, 34, 0.98);*/
-        height: 70px;
+        background: #000000;
+        height: 50px;
     }
 
 #header #logo h1 {
@@ -299,8 +299,8 @@ h1, h2, h3, h4, h5, h6 {
 .buy-tickets {
   color: #fff;
   background: #f82249;
-  padding: 7px 22px;
-  margin: 0 0 0 15px;
+  padding: 5px 10px 10px 10px;
+  margin: 0 0 0 10px;
   border-radius: 50px;
   border: 2px solid #f82249;
   transition: all ease-in-out 0.3s;
@@ -802,11 +802,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 12px 32px;
+  padding: 10px 15px;
   border-radius: 50px;
   transition: 0.5s;
   line-height: 1;
-  margin: 10px;
+  margin: 12px 5px;
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
