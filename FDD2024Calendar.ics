@@ -4,8 +4,8 @@ VERSION:2.0
 BEGIN:VEVENT
 UID:1c869410-cc91-47dc-ad25-10388ba35c2d
 DTSTAMP:20240903T170157Z
-DTSTART;TZID=America/New_York:20240925T020000
-DTEND;TZID=America/New_York:20240925T130000
+DTSTART;TZID=America/New_York:20240925T090000
+DTEND;TZID=America/New_York:20240925T200000
 SUMMARY:Future Data Driven Summit 2024
 LOCATION:Online
 DESCRIPTION:We sincerely thank you for being a part of this wonderful virtual conference. Your participation is what makes this event truly special.
