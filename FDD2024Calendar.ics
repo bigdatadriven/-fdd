@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//dayschedule.com//Event Calendar//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:1c869410-cc91-47dc-ad25-10388ba35c2d
+DTSTAMP:20240903T170157Z
+DTSTART;TZID=America/New_York:20240925T020000
+DTEND;TZID=America/New_York:20240925T130000
+SUMMARY:Future Data Driven Summit 2024
+LOCATION:Online
+DESCRIPTION:We sincerely thank you for being a part of this wonderful virtual conference. Your participation is what makes this event truly special.
+
+## What is the Future Data Driven Summit? 
+
+The Future Data Driven summit is an annual joint event of data platforms communities and user groups, focuses on cutting-edge data platforms and AI technologies. This year marks our fourth edition, and we’re excited to bring together industry experts, thought leaders, and enthusiasts from around the world.
+
+## What are your experience expectations?
+
+You will have the chance to learn from other data and AI experts. Additionally, we have planned fun activities, including opportunities to virtually introduce yourself during the lunch break and participate in a raffle during the closing session.
+
+## How to Join a Session?
+
+The summit will kick off in the Hub virtual room at 9:00 am Eastern Time (US & Canada).
+https://bit.ly/fdd2024hub
+
+The opening session, held in the Hub room, is essential for all participants. During this session, we will provide a comprehensive overview of the day’s schedule, explain how to join various sessions, and share all the information you need to make the most of the event.
+
+This room will serve as the main hall for the entire event, remaining open throughout the day. In the Hub room, you can find all the information about the upcoming sessions, get support, and network with other attendees.
+
+Additionally, the Hub room will host the after-party and various fun activities, including swag giveaways. Make sure to drop by for an engaging and informative experience!
+
+Notes: If you are not sure about the sessions and virtual rooms, please visit the website as more details are available there.
+https://datadrivencommunity.com/FutureDataDriven2024.html
+
+## How to get support during the event?
+
+If you have any technical issue during the event then you can use the Support channel on Teams or use the QnA here in the Hub virtual room. (Note: Chat is for networking and QnA for support).
+
+If you have any questions before the event, you can contact Ronen Ariely on Facebook (https://www.facebook.com/ronen.ariely) or LinkedIn (https://www.linkedin.com/in/pitoach/).
+
+-----
+Let’s make the most of this event together! 🎉
+
+Thank you for registering! We look forward to seeing you at the Future Data Driven Summit 2024 on September 25th!
+END:VEVENT
+END:VCALENDAR
