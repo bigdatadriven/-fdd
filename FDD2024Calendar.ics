@@ -20,46 +20,34 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20240904T224645Z
-DESCRIPTION:Future Data Driven Summit 2024\nDate and Time - Sep 25\, 2024\,
-	 9:00 AM to 8:00 PM Eastern Time (US & Canada)\nVenue - Online (https://bi
-	t.ly/fdd2024hub)\nWe sincerely thank you for being a part of this wonderfu
-	l virtual conference. Your participation is what makes this event truly sp
-	ecial.\n\n## What is the Future Data Driven Summit? \n\nThe Future Data Dr
-	iven summit is an annual joint event of data platforms communities and use
-	r groups\, focuses on cutting-edge data platforms and AI technologies. Thi
-	s year marks our fourth edition\, and we’re excited to bring together in
-	dustry experts\, thought leaders\, and enthusiasts from around the world.\
-	n\n## What are your experience expectations? \n\nYou will have the chance 
-	to learn from other data and AI experts. Additionally\, we have planned fu
-	n activities\, including opportunities to virtually introduce yourself dur
-	ing the lunch break and participate in a raffle during the closing session
-	.\n\n## How to Join a Session? \n\nThe summit will kick off in the Hub vir
-	tual room at 9:00 am Eastern Time (US & Canada). \nhttps://bit.ly/fdd2024h
-	ub \nThe opening session\, held in the Hub room\, is essential for all par
-	ticipants. During this session\, we will provide a comprehensive overview 
-	of the day’s schedule\, explain how to join various sessions\, and share
-	 all the information you need to make the most of the event.\nThis room wi
-	ll serve as the main hall for the entire event\, remaining open throughout
-	 the day. In the Hub room\, you can find all the information about the upc
-	oming sessions\, get support\, and network with other attendees.\nAddition
-	ally\, the Hub room will host the after-party and various fun activities\,
-	 including swag giveaways. Make sure to drop by for an engaging and inform
-	ative experience!\nNotes: If you are not sure about the sessions and virtu
-	al rooms\, please visit the website as more details are available there.\n
-	https://datadrivencommunity.com/FutureDataDriven2024.html \n\n## How to ge
-	t support during the event? \n\nIf you have any technical issue during the
-	 event\, then you can use the Support channel on Teams or use the QnA here
-	 in the Hub virtual room. (Note: Chat is for networking and QnA for suppor
-	t).\nIf you have any questions before the event\, you can contact Ronen Ar
-	iely on Facebook (https://www.facebook.com/ronen.ariely) or LinkedIn (http
-	s://www.linkedin.com/in/pitoach/).\n----- \nLet’s make the most of this 
-	event together! 🎉 \nThank you for registering!\nWe look forward to se
-	eing you at the Future Data Driven Summit 2024 on September 25th! \n
+CREATED:20240905T230235Z
+DESCRIPTION:\nFuture Data Driven Summit 2024\n\n*	Location: Online | Join H
+	ere <https://bit.ly/fdd2024hub> \n*	Date & Time: September 25\, 2024\, at 
+	09:00 AM Eastern Time (US & Canada).\n*	The meeting will open 30 minutes e
+	arly for check-ins and networking.\n________________________________\n\nTh
+	ank you for registering for the Future Data Driven Summit 2024! Your parti
+	cipation makes this event special.\nAbout the Future Data Driven Summit\nA
+	n annual joint event of data platforms user groups focuses on cutting-edge
+	 data platforms and AI technologies. This is our fourth edition\, bringing
+	 together industry experts and enthusiasts worldwide.\nWhat to Expect\nLea
+	rn from data and AI experts\, network and meet your peers\, and join raffl
+	es for swags/gifts and fun activities.\nHow to Join\nKick-off in the Hub v
+	irtual room at 9:00 AM Eastern Time (US & Canada). The opening session wil
+	l provide an overview of the day's schedule and how to join sessions. The 
+	Hub room will remain open all day for information\, support\, and networki
+	ng. It will also host the after-party and fun activities\, including swag 
+	giveaways. Check sessions schedule here <https://datadrivencommunity.com/F
+	utureDataDriven2024.html> .\nNeed Support?\nFor technical issues during th
+	e event\, use the QnA in the Hub room <https://bit.ly/fdd2024hub> . For qu
+	estions before the event\, contact Ronen Ariely on Facebook <https://www.f
+	acebook.com/ronen.ariely>  or LinkedIn <https://www.linkedin.com/in/pitoac
+	h/> .\n________________________________\n\nLet's make the most of this eve
+	nt together! 🎉\nThank you for registering! We look forward to seeing 
+	you on September 25th!\n \n
 DTEND;TZID="Eastern Standard Time":20240925T200000
 DTSTAMP:20240904T221200Z
 DTSTART;TZID="Eastern Standard Time":20240925T090000
-LAST-MODIFIED:20240904T224645Z
+LAST-MODIFIED:20240905T230235Z
 LOCATION:https://bit.ly/fdd2024hub
 PRIORITY:5
 SEQUENCE:0
@@ -73,637 +61,767 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=ProgId c
 	ontent=Word.Document><meta name=Generator content="Microsoft Word 15"><met
 	a name=Originator content="Microsoft Word 15"><link rel=File-List href="ci
-	d:filelist.xml@01DAFF35.6C4DAB70"><!--[if gte mso 9]><xml>\n<o:OfficeDocum
-	entSettings>\n<o:AllowPNG/>\n</o:OfficeDocumentSettings>\n</xml><![endif]-
-	-><!--[if gte mso 9]><xml>\n<w:WordDocument>\n<w:SpellingState>Clean</w:Sp
-	ellingState>\n<w:GrammarState>Clean</w:GrammarState>\n<w:DocumentKind>Docu
-	mentEmail</w:DocumentKind>\n<w:TrackMoves/>\n<w:TrackFormatting/>\n<w:Enve
-	lopeVis/>\n<w:ValidateAgainstSchemas/>\n<w:SaveIfXMLInvalid>false</w:SaveI
-	fXMLInvalid>\n<w:IgnoreMixedContent>false</w:IgnoreMixedContent>\n<w:Alway
-	sShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\n<w:DoNotPromoteQ
-	F/>\n<w:LidThemeOther>en-IL</w:LidThemeOther>\n<w:LidThemeAsian>X-NONE</w:
-	LidThemeAsian>\n<w:LidThemeComplexScript>HE</w:LidThemeComplexScript>\n<w:
-	Compatibility>\n<w:DoNotExpandShiftReturn/>\n<w:BreakWrappedTables/>\n<w:S
-	plitPgBreakAndParaMark/>\n<w:EnableOpenTypeKerning/>\n</w:Compatibility>\n
-	<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>\n<m:mathPr>\n<
-	m:mathFont m:val="Cambria Math"/>\n<m:brkBin m:val="before"/>\n<m:brkBinSu
-	b m:val="&#45\;-"/>\n<m:smallFrac m:val="off"/>\n<m:dispDef/>\n<m:lMargin 
-	m:val="0"/>\n<m:rMargin m:val="0"/>\n<m:defJc m:val="centerGroup"/>\n<m:wr
-	apIndent m:val="1440"/>\n<m:intLim m:val="subSup"/>\n<m:naryLim m:val="und
-	Ovr"/>\n</m:mathPr></w:WordDocument>\n</xml><![endif]--><!--[if gte mso 9]
-	><xml>\n<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false" D
-	efSemiHidden="false" DefQFormat="false" DefPriority="99" LatentStyleCount=
-	"376">\n<w:LsdException Locked="false" Priority="0" QFormat="true" Name="N
-	ormal"/>\n<w:LsdException Locked="false" Priority="9" QFormat="true" Name=
-	"heading 1"/>\n<w:LsdException Locked="false" Priority="9" SemiHidden="tru
-	e" UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>\n<w:LsdExceptio
-	n Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFor
-	mat="true" Name="heading 3"/>\n<w:LsdException Locked="false" Priority="9"
-	 SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-	\n<w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhen
-	Used="true" QFormat="true" Name="heading 5"/>\n<w:LsdException Locked="fal
-	se" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Na
-	me="heading 6"/>\n<w:LsdException Locked="false" Priority="9" SemiHidden="
-	true" UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>\n<w:LsdExcep
-	tion Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" Q
-	Format="true" Name="heading 8"/>\n<w:LsdException Locked="false" Priority=
-	"9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 9
-	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
-	" Name="index 1"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
-	eWhenUsed="true" Name="index 2"/>\n<w:LsdException Locked="false" SemiHidd
-	en="true" UnhideWhenUsed="true" Name="index 3"/>\n<w:LsdException Locked="
-	false" SemiHidden="true" UnhideWhenUsed="true" Name="index 4"/>\n<w:LsdExc
-	eption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 
-	5"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
-	e" Name="index 6"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhi
-	deWhenUsed="true" Name="index 7"/>\n<w:LsdException Locked="false" SemiHid
-	den="true" UnhideWhenUsed="true" Name="index 8"/>\n<w:LsdException Locked=
-	"false" SemiHidden="true" UnhideWhenUsed="true" Name="index 9"/>\n<w:LsdEx
-	ception Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="tru
-	e" Name="toc 1"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden
-	="true" UnhideWhenUsed="true" Name="toc 2"/>\n<w:LsdException Locked="fals
-	e" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 3"/>\n<
-	w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUs
-	ed="true" Name="toc 4"/>\n<w:LsdException Locked="false" Priority="39" Sem
-	iHidden="true" UnhideWhenUsed="true" Name="toc 5"/>\n<w:LsdException Locke
-	d="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 
-	6"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden="true" Unhid
-	eWhenUsed="true" Name="toc 7"/>\n<w:LsdException Locked="false" Priority="
-	39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 8"/>\n<w:LsdExceptio
-	n Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Nam
-	e="toc 9"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
-	ed="true" Name="Normal Indent"/>\n<w:LsdException Locked="false" SemiHidde
-	n="true" UnhideWhenUsed="true" Name="footnote text"/>\n<w:LsdException Loc
-	ked="false" SemiHidden="true" UnhideWhenUsed="true" Name="annotation text"
-	/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-	 Name="header"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideW
-	henUsed="true" Name="footer"/>\n<w:LsdException Locked="false" SemiHidden=
-	"true" UnhideWhenUsed="true" Name="index heading"/>\n<w:LsdException Locke
-	d="false" Priority="35" SemiHidden="true" UnhideWhenUsed="true" QFormat="t
-	rue" Name="caption"/>\n<w:LsdException Locked="false" SemiHidden="true" Un
-	hideWhenUsed="true" Name="table of figures"/>\n<w:LsdException Locked="fal
-	se" SemiHidden="true" UnhideWhenUsed="true" Name="envelope address"/>\n<w:
+	d:filelist.xml@01DB0000.A14BA1D0"><link rel=Edit-Time-Data href="cid:editd
+	ata.mso"><!--[if !mso]><style>v\\:* {behavior:url(#default#VML)\;}\no\\:* 
+	{behavior:url(#default#VML)\;}\nw\\:* {behavior:url(#default#VML)\;}\n.sha
+	pe {behavior:url(#default#VML)\;}\n</style><![endif]--><!--[if gte mso 9]>
+	<xml>\n<o:OfficeDocumentSettings>\n<o:AllowPNG/>\n</o:OfficeDocumentSettin
+	gs>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<w:WordDocument>\n<w:Spel
+	lingState>Clean</w:SpellingState>\n<w:GrammarState>Clean</w:GrammarState>\
+	n<w:DocumentKind>DocumentEmail</w:DocumentKind>\n<w:TrackMoves/>\n<w:Track
+	Formatting/>\n<w:EnvelopeVis/>\n<w:ValidateAgainstSchemas/>\n<w:SaveIfXMLI
+	nvalid>false</w:SaveIfXMLInvalid>\n<w:IgnoreMixedContent>false</w:IgnoreMi
+	xedContent>\n<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderTe
+	xt>\n<w:DoNotPromoteQF/>\n<w:LidThemeOther>en-IL</w:LidThemeOther>\n<w:Lid
+	ThemeAsian>X-NONE</w:LidThemeAsian>\n<w:LidThemeComplexScript>HE</w:LidThe
+	meComplexScript>\n<w:Compatibility>\n<w:DoNotExpandShiftReturn/>\n<w:Break
+	WrappedTables/>\n<w:SplitPgBreakAndParaMark/>\n<w:EnableOpenTypeKerning/>\
+	n</w:Compatibility>\n<w:BrowserLevel>MicrosoftInternetExplorer4</w:Browser
+	Level>\n<m:mathPr>\n<m:mathFont m:val="Cambria Math"/>\n<m:brkBin m:val="b
+	efore"/>\n<m:brkBinSub m:val="&#45\;-"/>\n<m:smallFrac m:val="off"/>\n<m:d
+	ispDef/>\n<m:lMargin m:val="0"/>\n<m:rMargin m:val="0"/>\n<m:defJc m:val="
+	centerGroup"/>\n<m:wrapIndent m:val="1440"/>\n<m:intLim m:val="subSup"/>\n
+	<m:naryLim m:val="undOvr"/>\n</m:mathPr></w:WordDocument>\n</xml><![endif]
+	--><!--[if gte mso 9]><xml>\n<w:LatentStyles DefLockedState="false" DefUnh
+	ideWhenUsed="false" DefSemiHidden="false" DefQFormat="false" DefPriority="
+	99" LatentStyleCount="376">\n<w:LsdException Locked="false" Priority="0" Q
+	Format="true" Name="Normal"/>\n<w:LsdException Locked="false" Priority="9"
+	 QFormat="true" Name="heading 1"/>\n<w:LsdException Locked="false" Priorit
+	y="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading
+	 2"/>\n<w:LsdException Locked="false" Priority="9" SemiHidden="true" Unhid
+	eWhenUsed="true" QFormat="true" Name="heading 3"/>\n<w:LsdException Locked
+	="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="tru
+	e" Name="heading 4"/>\n<w:LsdException Locked="false" Priority="9" SemiHid
+	den="true" UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>\n<w:Lsd
+	Exception Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="tr
+	ue" QFormat="true" Name="heading 6"/>\n<w:LsdException Locked="false" Prio
+	rity="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="head
+	ing 7"/>\n<w:LsdException Locked="false" Priority="9" SemiHidden="true" Un
+	hideWhenUsed="true" QFormat="true" Name="heading 8"/>\n<w:LsdException Loc
+	ked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="
+	true" Name="heading 9"/>\n<w:LsdException Locked="false" SemiHidden="true"
+	 UnhideWhenUsed="true" Name="index 1"/>\n<w:LsdException Locked="false" Se
+	miHidden="true" UnhideWhenUsed="true" Name="index 2"/>\n<w:LsdException Lo
+	cked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 3"/>\n<w:
 	LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="
-	envelope return"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
-	eWhenUsed="true" Name="footnote reference"/>\n<w:LsdException Locked="fals
-	e" SemiHidden="true" UnhideWhenUsed="true" Name="annotation reference"/>\n
-	<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Nam
-	e="line number"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhide
-	WhenUsed="true" Name="page number"/>\n<w:LsdException Locked="false" SemiH
-	idden="true" UnhideWhenUsed="true" Name="endnote reference"/>\n<w:LsdExcep
-	tion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote 
-	text"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="
-	true" Name="table of authorities"/>\n<w:LsdException Locked="false" SemiHi
-	dden="true" UnhideWhenUsed="true" Name="macro"/>\n<w:LsdException Locked="
-	false" SemiHidden="true" UnhideWhenUsed="true" Name="toa heading"/>\n<w:Ls
+	index 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
+	d="true" Name="index 5"/>\n<w:LsdException Locked="false" SemiHidden="true
+	" UnhideWhenUsed="true" Name="index 6"/>\n<w:LsdException Locked="false" S
+	emiHidden="true" UnhideWhenUsed="true" Name="index 7"/>\n<w:LsdException L
+	ocked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 8"/>\n<w
+	:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name=
+	"index 9"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden="true
+	" UnhideWhenUsed="true" Name="toc 1"/>\n<w:LsdException Locked="false" Pri
+	ority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 2"/>\n<w:LsdE
+	xception Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="tr
+	ue" Name="toc 3"/>\n<w:LsdException Locked="false" Priority="39" SemiHidde
+	n="true" UnhideWhenUsed="true" Name="toc 4"/>\n<w:LsdException Locked="fal
+	se" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 5"/>\n
+	<w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenU
+	sed="true" Name="toc 6"/>\n<w:LsdException Locked="false" Priority="39" Se
+	miHidden="true" UnhideWhenUsed="true" Name="toc 7"/>\n<w:LsdException Lock
+	ed="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc
+	 8"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden="true" Unhi
+	deWhenUsed="true" Name="toc 9"/>\n<w:LsdException Locked="false" SemiHidde
+	n="true" UnhideWhenUsed="true" Name="Normal Indent"/>\n<w:LsdException Loc
+	ked="false" SemiHidden="true" UnhideWhenUsed="true" Name="footnote text"/>
+	\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" N
+	ame="annotation text"/>\n<w:LsdException Locked="false" SemiHidden="true" 
+	UnhideWhenUsed="true" Name="header"/>\n<w:LsdException Locked="false" Semi
+	Hidden="true" UnhideWhenUsed="true" Name="footer"/>\n<w:LsdException Locke
+	d="false" SemiHidden="true" UnhideWhenUsed="true" Name="index heading"/>\n
+	<w:LsdException Locked="false" Priority="35" SemiHidden="true" UnhideWhenU
+	sed="true" QFormat="true" Name="caption"/>\n<w:LsdException Locked="false"
+	 SemiHidden="true" UnhideWhenUsed="true" Name="table of figures"/>\n<w:Lsd
+	Exception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="env
+	elope address"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideW
+	henUsed="true" Name="envelope return"/>\n<w:LsdException Locked="false" Se
+	miHidden="true" UnhideWhenUsed="true" Name="footnote reference"/>\n<w:LsdE
+	xception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="anno
+	tation reference"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhi
+	deWhenUsed="true" Name="line number"/>\n<w:LsdException Locked="false" Sem
+	iHidden="true" UnhideWhenUsed="true" Name="page number"/>\n<w:LsdException
+	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="endnote refe
+	rence"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed=
+	"true" Name="endnote text"/>\n<w:LsdException Locked="false" SemiHidden="t
+	rue" UnhideWhenUsed="true" Name="table of authorities"/>\n<w:LsdException 
+	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="macro"/>\n<w:
+	LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="
+	toa heading"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
+	nUsed="true" Name="List"/>\n<w:LsdException Locked="false" SemiHidden="tru
+	e" UnhideWhenUsed="true" Name="List Bullet"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="List Number"/>\n<w:LsdEx
+	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 
+	2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
+	e" Name="List 3"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
+	eWhenUsed="true" Name="List 4"/>\n<w:LsdException Locked="false" SemiHidde
+	n="true" UnhideWhenUsed="true" Name="List 5"/>\n<w:LsdException Locked="fa
+	lse" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 2"/>\n<w:Ls
 	dException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Li
-	st"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tr
-	ue" Name="List Bullet"/>\n<w:LsdException Locked="false" SemiHidden="true"
-	 UnhideWhenUsed="true" Name="List Number"/>\n<w:LsdException Locked="false
-	" SemiHidden="true" UnhideWhenUsed="true" Name="List 2"/>\n<w:LsdException
-	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 3"/>\n<
-	w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name
-	="List 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
-	ed="true" Name="List 5"/>\n<w:LsdException Locked="false" SemiHidden="true
-	" UnhideWhenUsed="true" Name="List Bullet 2"/>\n<w:LsdException Locked="fa
-	lse" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 3"/>\n<w:Ls
-	dException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Li
-	st Bullet 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
-	nUsed="true" Name="List Bullet 5"/>\n<w:LsdException Locked="false" SemiHi
-	dden="true" UnhideWhenUsed="true" Name="List Number 2"/>\n<w:LsdException 
-	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 3
+	st Bullet 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
+	nUsed="true" Name="List Bullet 4"/>\n<w:LsdException Locked="false" SemiHi
+	dden="true" UnhideWhenUsed="true" Name="List Bullet 5"/>\n<w:LsdException 
+	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 2
 	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
-	" Name="List Number 4"/>\n<w:LsdException Locked="false" SemiHidden="true"
-	 UnhideWhenUsed="true" Name="List Number 5"/>\n<w:LsdException Locked="fal
-	se" Priority="10" QFormat="true" Name="Title"/>\n<w:LsdException Locked="f
-	alse" SemiHidden="true" UnhideWhenUsed="true" Name="Closing"/>\n<w:LsdExce
-	ption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Signatu
-	re"/>\n<w:LsdException Locked="false" Priority="1" SemiHidden="true" Unhid
-	eWhenUsed="true" Name="Default Paragraph Font"/>\n<w:LsdException Locked="
-	false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text"/>\n<w:LsdE
-	xception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body
-	 Text Indent"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWh
-	enUsed="true" Name="List Continue"/>\n<w:LsdException Locked="false" SemiH
-	idden="true" UnhideWhenUsed="true" Name="List Continue 2"/>\n<w:LsdExcepti
-	on Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Conti
-	nue 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed=
-	"true" Name="List Continue 4"/>\n<w:LsdException Locked="false" SemiHidden
-	="true" UnhideWhenUsed="true" Name="List Continue 5"/>\n<w:LsdException Lo
-	cked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Message Header"
-	/>\n<w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subt
-	itle"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="
-	true" Name="Salutation"/>\n<w:LsdException Locked="false" SemiHidden="true
-	" UnhideWhenUsed="true" Name="Date"/>\n<w:LsdException Locked="false" Semi
-	Hidden="true" UnhideWhenUsed="true" Name="Body Text First Indent"/>\n<w:Ls
-	dException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Bo
-	dy Text First Indent 2"/>\n<w:LsdException Locked="false" SemiHidden="true
-	" UnhideWhenUsed="true" Name="Note Heading"/>\n<w:LsdException Locked="fal
-	se" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 2"/>\n<w:LsdEx
-	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body 
-	Text 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed
-	="true" Name="Body Text Indent 2"/>\n<w:LsdException Locked="false" SemiHi
-	dden="true" UnhideWhenUsed="true" Name="Body Text Indent 3"/>\n<w:LsdExcep
-	tion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Block Te
-	xt"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tr
-	ue" Name="Hyperlink"/>\n<w:LsdException Locked="false" SemiHidden="true" U
-	nhideWhenUsed="true" Name="FollowedHyperlink"/>\n<w:LsdException Locked="f
-	alse" Priority="22" QFormat="true" Name="Strong"/>\n<w:LsdException Locked
-	="false" Priority="20" QFormat="true" Name="Emphasis"/>\n<w:LsdException L
-	ocked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Document Map"/
+	" Name="List Number 3"/>\n<w:LsdException Locked="false" SemiHidden="true"
+	 UnhideWhenUsed="true" Name="List Number 4"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="List Number 5"/>\n<w:Lsd
+	Exception Locked="false" Priority="10" QFormat="true" Name="Title"/>\n<w:L
+	sdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="C
+	losing"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed
+	="true" Name="Signature"/>\n<w:LsdException Locked="false" Priority="1" Se
+	miHidden="true" UnhideWhenUsed="true" Name="Default Paragraph Font"/>\n<w:
+	LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="
+	Body Text"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenU
+	sed="true" Name="Body Text Indent"/>\n<w:LsdException Locked="false" SemiH
+	idden="true" UnhideWhenUsed="true" Name="List Continue"/>\n<w:LsdException
+	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continu
+	e 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="t
+	rue" Name="List Continue 3"/>\n<w:LsdException Locked="false" SemiHidden="
+	true" UnhideWhenUsed="true" Name="List Continue 4"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 5"/
 	>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" 
-	Name="Plain Text"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhi
-	deWhenUsed="true" Name="E-mail Signature"/>\n<w:LsdException Locked="false
-	" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Top of Form"/>\n<w:Ls
-	dException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HT
-	ML Bottom of Form"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
-	ideWhenUsed="true" Name="Normal (Web)"/>\n<w:LsdException Locked="false" S
-	emiHidden="true" UnhideWhenUsed="true" Name="HTML Acronym"/>\n<w:LsdExcept
-	ion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Addr
-	ess"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="t
-	rue" Name="HTML Cite"/>\n<w:LsdException Locked="false" SemiHidden="true" 
-	UnhideWhenUsed="true" Name="HTML Code"/>\n<w:LsdException Locked="false" S
-	emiHidden="true" UnhideWhenUsed="true" Name="HTML Definition"/>\n<w:LsdExc
-	eption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML K
-	eyboard"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
-	d="true" Name="HTML Preformatted"/>\n<w:LsdException Locked="false" SemiHi
-	dden="true" UnhideWhenUsed="true" Name="HTML Sample"/>\n<w:LsdException Lo
-	cked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Typewriter
-	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
-	" Name="HTML Variable"/>\n<w:LsdException Locked="false" SemiHidden="true"
-	 UnhideWhenUsed="true" Name="Normal Table"/>\n<w:LsdException Locked="fals
-	e" SemiHidden="true" UnhideWhenUsed="true" Name="annotation subject"/>\n<w
-	:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name=
-	"No List"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
-	ed="true" Name="Outline List 1"/>\n<w:LsdException Locked="false" SemiHidd
-	en="true" UnhideWhenUsed="true" Name="Outline List 2"/>\n<w:LsdException L
-	ocked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 3
-	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
-	" Name="Table Simple 1"/>\n<w:LsdException Locked="false" SemiHidden="true
-	" UnhideWhenUsed="true" Name="Table Simple 2"/>\n<w:LsdException Locked="f
-	alse" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 3"/>\n<w:
-	LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="
-	Table Classic 1"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
-	eWhenUsed="true" Name="Table Classic 2"/>\n<w:LsdException Locked="false" 
-	SemiHidden="true" UnhideWhenUsed="true" Name="Table Classic 3"/>\n<w:LsdEx
-	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table
-	 Classic 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhen
-	Used="true" Name="Table Colorful 1"/>\n<w:LsdException Locked="false" Semi
-	Hidden="true" UnhideWhenUsed="true" Name="Table Colorful 2"/>\n<w:LsdExcep
-	tion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Co
-	lorful 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
-	ed="true" Name="Table Columns 1"/>\n<w:LsdException Locked="false" SemiHid
-	den="true" UnhideWhenUsed="true" Name="Table Columns 2"/>\n<w:LsdException
-	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Column
-	s 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="t
-	rue" Name="Table Columns 4"/>\n<w:LsdException Locked="false" SemiHidden="
-	true" UnhideWhenUsed="true" Name="Table Columns 5"/>\n<w:LsdException Lock
-	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 1"/>\n
-	<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Nam
-	e="Table Grid 2"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
-	eWhenUsed="true" Name="Table Grid 3"/>\n<w:LsdException Locked="false" Sem
-	iHidden="true" UnhideWhenUsed="true" Name="Table Grid 4"/>\n<w:LsdExceptio
-	n Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 
-	5"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
-	e" Name="Table Grid 6"/>\n<w:LsdException Locked="false" SemiHidden="true"
-	 UnhideWhenUsed="true" Name="Table Grid 7"/>\n<w:LsdException Locked="fals
-	e" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 8"/>\n<w:LsdEx
-	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table
-	 List 1"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
-	d="true" Name="Table List 2"/>\n<w:LsdException Locked="false" SemiHidden=
-	"true" UnhideWhenUsed="true" Name="Table List 3"/>\n<w:LsdException Locked
-	="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 4"/>\n<w
-	:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name=
-	"Table List 5"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideW
-	henUsed="true" Name="Table List 6"/>\n<w:LsdException Locked="false" SemiH
-	idden="true" UnhideWhenUsed="true" Name="Table List 7"/>\n<w:LsdException 
-	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 8"
+	Name="Message Header"/>\n<w:LsdException Locked="false" Priority="11" QFor
+	mat="true" Name="Subtitle"/>\n<w:LsdException Locked="false" SemiHidden="t
+	rue" UnhideWhenUsed="true" Name="Salutation"/>\n<w:LsdException Locked="fa
+	lse" SemiHidden="true" UnhideWhenUsed="true" Name="Date"/>\n<w:LsdExceptio
+	n Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text F
+	irst Indent"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
+	nUsed="true" Name="Body Text First Indent 2"/>\n<w:LsdException Locked="fa
+	lse" SemiHidden="true" UnhideWhenUsed="true" Name="Note Heading"/>\n<w:Lsd
+	Exception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Bod
+	y Text 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
+	ed="true" Name="Body Text 3"/>\n<w:LsdException Locked="false" SemiHidden=
+	"true" UnhideWhenUsed="true" Name="Body Text Indent 2"/>\n<w:LsdException 
+	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Ind
+	ent 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed=
+	"true" Name="Block Text"/>\n<w:LsdException Locked="false" SemiHidden="tru
+	e" UnhideWhenUsed="true" Name="Hyperlink"/>\n<w:LsdException Locked="false
+	" SemiHidden="true" UnhideWhenUsed="true" Name="FollowedHyperlink"/>\n<w:L
+	sdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>\n<
+	w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"
 	/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-	 Name="Table 3D effects 1"/>\n<w:LsdException Locked="false" SemiHidden="t
-	rue" UnhideWhenUsed="true" Name="Table 3D effects 2"/>\n<w:LsdException Lo
-	cked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effect
-	s 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="t
-	rue" Name="Table Contemporary"/>\n<w:LsdException Locked="false" SemiHidde
-	n="true" UnhideWhenUsed="true" Name="Table Elegant"/>\n<w:LsdException Loc
-	ked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Profession
-	al"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tr
-	ue" Name="Table Subtle 1"/>\n<w:LsdException Locked="false" SemiHidden="tr
-	ue" UnhideWhenUsed="true" Name="Table Subtle 2"/>\n<w:LsdException Locked=
-	"false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Web 1"/>\n<w:L
+	 Name="Document Map"/>\n<w:LsdException Locked="false" SemiHidden="true" U
+	nhideWhenUsed="true" Name="Plain Text"/>\n<w:LsdException Locked="false" S
+	emiHidden="true" UnhideWhenUsed="true" Name="E-mail Signature"/>\n<w:LsdEx
+	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML 
+	Top of Form"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
+	nUsed="true" Name="HTML Bottom of Form"/>\n<w:LsdException Locked="false" 
+	SemiHidden="true" UnhideWhenUsed="true" Name="Normal (Web)"/>\n<w:LsdExcep
+	tion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Acr
+	onym"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="
+	true" Name="HTML Address"/>\n<w:LsdException Locked="false" SemiHidden="tr
+	ue" UnhideWhenUsed="true" Name="HTML Cite"/>\n<w:LsdException Locked="fals
+	e" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Code"/>\n<w:LsdExcep
+	tion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Def
+	inition"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
+	d="true" Name="HTML Keyboard"/>\n<w:LsdException Locked="false" SemiHidden
+	="true" UnhideWhenUsed="true" Name="HTML Preformatted"/>\n<w:LsdException 
+	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Sample"/
+	>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" 
+	Name="HTML Typewriter"/>\n<w:LsdException Locked="false" SemiHidden="true"
+	 UnhideWhenUsed="true" Name="HTML Variable"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="Normal Table"/>\n<w:LsdE
+	xception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="anno
+	tation subject"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhide
+	WhenUsed="true" Name="No List"/>\n<w:LsdException Locked="false" SemiHidde
+	n="true" UnhideWhenUsed="true" Name="Outline List 1"/>\n<w:LsdException Lo
+	cked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 2"
+	/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+	 Name="Outline List 3"/>\n<w:LsdException Locked="false" SemiHidden="true"
+	 UnhideWhenUsed="true" Name="Table Simple 1"/>\n<w:LsdException Locked="fa
+	lse" SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 2"/>\n<w:L
 	sdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="T
-	able Web 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhen
-	Used="true" Name="Table Web 3"/>\n<w:LsdException Locked="false" SemiHidde
-	n="true" UnhideWhenUsed="true" Name="Balloon Text"/>\n<w:LsdException Lock
-	ed="false" Priority="39" Name="Table Grid"/>\n<w:LsdException Locked="fals
-	e" SemiHidden="true" UnhideWhenUsed="true" Name="Table Theme"/>\n<w:LsdExc
-	eption Locked="false" SemiHidden="true" Name="Placeholder Text"/>\n<w:LsdE
-	xception Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>\n<
-	w:LsdException Locked="false" Priority="60" Name="Light Shading"/>\n<w:Lsd
-	Exception Locked="false" Priority="61" Name="Light List"/>\n<w:LsdExceptio
-	n Locked="false" Priority="62" Name="Light Grid"/>\n<w:LsdException Locked
-	="false" Priority="63" Name="Medium Shading 1"/>\n<w:LsdException Locked="
-	false" Priority="64" Name="Medium Shading 2"/>\n<w:LsdException Locked="fa
-	lse" Priority="65" Name="Medium List 1"/>\n<w:LsdException Locked="false" 
-	Priority="66" Name="Medium List 2"/>\n<w:LsdException Locked="false" Prior
-	ity="67" Name="Medium Grid 1"/>\n<w:LsdException Locked="false" Priority="
-	68" Name="Medium Grid 2"/>\n<w:LsdException Locked="false" Priority="69" N
-	ame="Medium Grid 3"/>\n<w:LsdException Locked="false" Priority="70" Name="
-	Dark List"/>\n<w:LsdException Locked="false" Priority="71" Name="Colorful 
-	Shading"/>\n<w:LsdException Locked="false" Priority="72" Name="Colorful Li
-	st"/>\n<w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-	\n<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 
-	1"/>\n<w:LsdException Locked="false" Priority="61" Name="Light List Accent
-	 1"/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Accen
-	t 1"/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading 
-	1 Accent 1"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium S
-	hading 2 Accent 1"/>\n<w:LsdException Locked="false" Priority="65" Name="M
-	edium List 1 Accent 1"/>\n<w:LsdException Locked="false" SemiHidden="true"
-	 Name="Revision"/>\n<w:LsdException Locked="false" Priority="34" QFormat="
-	true" Name="List Paragraph"/>\n<w:LsdException Locked="false" Priority="29
-	" QFormat="true" Name="Quote"/>\n<w:LsdException Locked="false" Priority="
-	30" QFormat="true" Name="Intense Quote"/>\n<w:LsdException Locked="false" 
-	Priority="66" Name="Medium List 2 Accent 1"/>\n<w:LsdException Locked="fal
-	se" Priority="67" Name="Medium Grid 1 Accent 1"/>\n<w:LsdException Locked=
-	"false" Priority="68" Name="Medium Grid 2 Accent 1"/>\n<w:LsdException Loc
-	ked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>\n<w:LsdException
-	 Locked="false" Priority="70" Name="Dark List Accent 1"/>\n<w:LsdException
-	 Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>\n<w:LsdEx
-	ception Locked="false" Priority="72" Name="Colorful List Accent 1"/>\n<w:L
-	sdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>\n
-	<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"
-	/>\n<w:LsdException Locked="false" Priority="61" Name="Light List Accent 2
-	"/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 
-	2"/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 
-	Accent 2"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium Sha
-	ding 2 Accent 2"/>\n<w:LsdException Locked="false" Priority="65" Name="Med
-	ium List 1 Accent 2"/>\n<w:LsdException Locked="false" Priority="66" Name=
-	"Medium List 2 Accent 2"/>\n<w:LsdException Locked="false" Priority="67" N
-	ame="Medium Grid 1 Accent 2"/>\n<w:LsdException Locked="false" Priority="6
-	8" Name="Medium Grid 2 Accent 2"/>\n<w:LsdException Locked="false" Priorit
-	y="69" Name="Medium Grid 3 Accent 2"/>\n<w:LsdException Locked="false" Pri
-	ority="70" Name="Dark List Accent 2"/>\n<w:LsdException Locked="false" Pri
-	ority="71" Name="Colorful Shading Accent 2"/>\n<w:LsdException Locked="fal
-	se" Priority="72" Name="Colorful List Accent 2"/>\n<w:LsdException Locked=
-	"false" Priority="73" Name="Colorful Grid Accent 2"/>\n<w:LsdException Loc
-	ked="false" Priority="60" Name="Light Shading Accent 3"/>\n<w:LsdException
-	 Locked="false" Priority="61" Name="Light List Accent 3"/>\n<w:LsdExceptio
-	n Locked="false" Priority="62" Name="Light Grid Accent 3"/>\n<w:LsdExcepti
-	on Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>\n<w:Lsd
-	Exception Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>\
-	n<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3
-	"/>\n<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Acce
-	nt 3"/>\n<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 
-	Accent 3"/>\n<w:LsdException Locked="false" Priority="68" Name="Medium Gri
-	d 2 Accent 3"/>\n<w:LsdException Locked="false" Priority="69" Name="Medium
-	 Grid 3 Accent 3"/>\n<w:LsdException Locked="false" Priority="70" Name="Da
-	rk List Accent 3"/>\n<w:LsdException Locked="false" Priority="71" Name="Co
-	lorful Shading Accent 3"/>\n<w:LsdException Locked="false" Priority="72" N
-	ame="Colorful List Accent 3"/>\n<w:LsdException Locked="false" Priority="7
-	3" Name="Colorful Grid Accent 3"/>\n<w:LsdException Locked="false" Priorit
-	y="60" Name="Light Shading Accent 4"/>\n<w:LsdException Locked="false" Pri
-	ority="61" Name="Light List Accent 4"/>\n<w:LsdException Locked="false" Pr
-	iority="62" Name="Light Grid Accent 4"/>\n<w:LsdException Locked="false" P
-	riority="63" Name="Medium Shading 1 Accent 4"/>\n<w:LsdException Locked="f
-	alse" Priority="64" Name="Medium Shading 2 Accent 4"/>\n<w:LsdException Lo
-	cked="false" Priority="65" Name="Medium List 1 Accent 4"/>\n<w:LsdExceptio
-	n Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>\n<w:LsdExce
-	ption Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>\n<w:Lsd
-	Exception Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>\n<w
-	:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-	\n<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-	\n<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Acce
-	nt 4"/>\n<w:LsdException Locked="false" Priority="72" Name="Colorful List 
-	Accent 4"/>\n<w:LsdException Locked="false" Priority="73" Name="Colorful G
-	rid Accent 4"/>\n<w:LsdException Locked="false" Priority="60" Name="Light 
-	Shading Accent 5"/>\n<w:LsdException Locked="false" Priority="61" Name="Li
-	ght List Accent 5"/>\n<w:LsdException Locked="false" Priority="62" Name="L
-	ight Grid Accent 5"/>\n<w:LsdException Locked="false" Priority="63" Name="
-	Medium Shading 1 Accent 5"/>\n<w:LsdException Locked="false" Priority="64"
-	 Name="Medium Shading 2 Accent 5"/>\n<w:LsdException Locked="false" Priori
-	ty="65" Name="Medium List 1 Accent 5"/>\n<w:LsdException Locked="false" Pr
-	iority="66" Name="Medium List 2 Accent 5"/>\n<w:LsdException Locked="false
-	" Priority="67" Name="Medium Grid 1 Accent 5"/>\n<w:LsdException Locked="f
-	alse" Priority="68" Name="Medium Grid 2 Accent 5"/>\n<w:LsdException Locke
-	d="false" Priority="69" Name="Medium Grid 3 Accent 5"/>\n<w:LsdException L
-	ocked="false" Priority="70" Name="Dark List Accent 5"/>\n<w:LsdException L
-	ocked="false" Priority="71" Name="Colorful Shading Accent 5"/>\n<w:LsdExce
-	ption Locked="false" Priority="72" Name="Colorful List Accent 5"/>\n<w:Lsd
-	Exception Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>\n<w
-	:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-	\n<w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/
-	>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"
-	/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Ac
-	cent 6"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium Shadi
-	ng 2 Accent 6"/>\n<w:LsdException Locked="false" Priority="65" Name="Mediu
-	m List 1 Accent 6"/>\n<w:LsdException Locked="false" Priority="66" Name="M
-	edium List 2 Accent 6"/>\n<w:LsdException Locked="false" Priority="67" Nam
-	e="Medium Grid 1 Accent 6"/>\n<w:LsdException Locked="false" Priority="68"
-	 Name="Medium Grid 2 Accent 6"/>\n<w:LsdException Locked="false" Priority=
-	"69" Name="Medium Grid 3 Accent 6"/>\n<w:LsdException Locked="false" Prior
-	ity="70" Name="Dark List Accent 6"/>\n<w:LsdException Locked="false" Prior
-	ity="71" Name="Colorful Shading Accent 6"/>\n<w:LsdException Locked="false
-	" Priority="72" Name="Colorful List Accent 6"/>\n<w:LsdException Locked="f
-	alse" Priority="73" Name="Colorful Grid Accent 6"/>\n<w:LsdException Locke
-	d="false" Priority="19" QFormat="true" Name="Subtle Emphasis"/>\n<w:LsdExc
-	eption Locked="false" Priority="21" QFormat="true" Name="Intense Emphasis"
-	/>\n<w:LsdException Locked="false" Priority="31" QFormat="true" Name="Subt
-	le Reference"/>\n<w:LsdException Locked="false" Priority="32" QFormat="tru
-	e" Name="Intense Reference"/>\n<w:LsdException Locked="false" Priority="33
-	" QFormat="true" Name="Book Title"/>\n<w:LsdException Locked="false" Prior
-	ity="37" SemiHidden="true" UnhideWhenUsed="true" Name="Bibliography"/>\n<w
-	:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUse
-	d="true" QFormat="true" Name="TOC Heading"/>\n<w:LsdException Locked="fals
-	e" Priority="41" Name="Plain Table 1"/>\n<w:LsdException Locked="false" Pr
-	iority="42" Name="Plain Table 2"/>\n<w:LsdException Locked="false" Priorit
-	y="43" Name="Plain Table 3"/>\n<w:LsdException Locked="false" Priority="44
-	" Name="Plain Table 4"/>\n<w:LsdException Locked="false" Priority="45" Nam
-	e="Plain Table 5"/>\n<w:LsdException Locked="false" Priority="40" Name="Gr
-	id Table Light"/>\n<w:LsdException Locked="false" Priority="46" Name="Grid
-	 Table 1 Light"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid
-	 Table 2"/>\n<w:LsdException Locked="false" Priority="48" Name="Grid Table
-	 3"/>\n<w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>\
-	n<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>\n
-	<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/
-	>\n<w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorfu
-	l"/>\n<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Ligh
-	t Accent 1"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid Tab
-	le 2 Accent 1"/>\n<w:LsdException Locked="false" Priority="48" Name="Grid 
-	Table 3 Accent 1"/>\n<w:LsdException Locked="false" Priority="49" Name="Gr
-	id Table 4 Accent 1"/>\n<w:LsdException Locked="false" Priority="50" Name=
-	"Grid Table 5 Dark Accent 1"/>\n<w:LsdException Locked="false" Priority="5
-	1" Name="Grid Table 6 Colorful Accent 1"/>\n<w:LsdException Locked="false"
-	 Priority="52" Name="Grid Table 7 Colorful Accent 1"/>\n<w:LsdException Lo
-	cked="false" Priority="46" Name="Grid Table 1 Light Accent 2"/>\n<w:LsdExc
-	eption Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>\n<w:Lsd
-	Exception Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>\n<w:
-	LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>\n
-	<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accen
-	t 2"/>\n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Co
-	lorful Accent 2"/>\n<w:LsdException Locked="false" Priority="52" Name="Gri
-	d Table 7 Colorful Accent 2"/>\n<w:LsdException Locked="false" Priority="4
-	6" Name="Grid Table 1 Light Accent 3"/>\n<w:LsdException Locked="false" Pr
-	iority="47" Name="Grid Table 2 Accent 3"/>\n<w:LsdException Locked="false"
-	 Priority="48" Name="Grid Table 3 Accent 3"/>\n<w:LsdException Locked="fal
-	se" Priority="49" Name="Grid Table 4 Accent 3"/>\n<w:LsdException Locked="
-	false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>\n<w:LsdException 
-	Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 3"/>\n<w:L
-	sdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Accen
-	t 3"/>\n<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Li
-	ght Accent 4"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid T
-	able 2 Accent 4"/>\n<w:LsdException Locked="false" Priority="48" Name="Gri
-	d Table 3 Accent 4"/>\n<w:LsdException Locked="false" Priority="49" Name="
-	Grid Table 4 Accent 4"/>\n<w:LsdException Locked="false" Priority="50" Nam
-	e="Grid Table 5 Dark Accent 4"/>\n<w:LsdException Locked="false" Priority=
-	"51" Name="Grid Table 6 Colorful Accent 4"/>\n<w:LsdException Locked="fals
-	e" Priority="52" Name="Grid Table 7 Colorful Accent 4"/>\n<w:LsdException 
-	Locked="false" Priority="46" Name="Grid Table 1 Light Accent 5"/>\n<w:LsdE
-	xception Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>\n<w:L
-	sdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>\n<
-	w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-	\n<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Acc
-	ent 5"/>\n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 
-	Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority="52" Name="G
-	rid Table 7 Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority=
-	"46" Name="Grid Table 1 Light Accent 6"/>\n<w:LsdException Locked="false" 
-	Priority="47" Name="Grid Table 2 Accent 6"/>\n<w:LsdException Locked="fals
-	e" Priority="48" Name="Grid Table 3 Accent 6"/>\n<w:LsdException Locked="f
-	alse" Priority="49" Name="Grid Table 4 Accent 6"/>\n<w:LsdException Locked
-	="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>\n<w:LsdExceptio
-	n Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 6"/>\n<w
-	:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Acc
-	ent 6"/>\n<w:LsdException Locked="false" Priority="46" Name="List Table 1 
-	Light"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2"
-	/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3"/>\n<w
-	:LsdException Locked="false" Priority="49" Name="List Table 4"/>\n<w:LsdEx
-	ception Locked="false" Priority="50" Name="List Table 5 Dark"/>\n<w:LsdExc
-	eption Locked="false" Priority="51" Name="List Table 6 Colorful"/>\n<w:Lsd
-	Exception Locked="false" Priority="52" Name="List Table 7 Colorful"/>\n<w:
-	LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent 
-	1"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2 Acce
-	nt 1"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3 A
-	ccent 1"/>\n<w:LsdException Locked="false" Priority="49" Name="List Table 
-	4 Accent 1"/>\n<w:LsdException Locked="false" Priority="50" Name="List Tab
-	le 5 Dark Accent 1"/>\n<w:LsdException Locked="false" Priority="51" Name="
-	List Table 6 Colorful Accent 1"/>\n<w:LsdException Locked="false" Priority
-	="52" Name="List Table 7 Colorful Accent 1"/>\n<w:LsdException Locked="fal
-	se" Priority="46" Name="List Table 1 Light Accent 2"/>\n<w:LsdException Lo
-	cked="false" Priority="47" Name="List Table 2 Accent 2"/>\n<w:LsdException
-	 Locked="false" Priority="48" Name="List Table 3 Accent 2"/>\n<w:LsdExcept
-	ion Locked="false" Priority="49" Name="List Table 4 Accent 2"/>\n<w:LsdExc
-	eption Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>\n<
-	w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Ac
-	cent 2"/>\n<w:LsdException Locked="false" Priority="52" Name="List Table 7
-	 Colorful Accent 2"/>\n<w:LsdException Locked="false" Priority="46" Name="
-	List Table 1 Light Accent 3"/>\n<w:LsdException Locked="false" Priority="4
-	7" Name="List Table 2 Accent 3"/>\n<w:LsdException Locked="false" Priority
-	="48" Name="List Table 3 Accent 3"/>\n<w:LsdException Locked="false" Prior
-	ity="49" Name="List Table 4 Accent 3"/>\n<w:LsdException Locked="false" Pr
-	iority="50" Name="List Table 5 Dark Accent 3"/>\n<w:LsdException Locked="f
-	alse" Priority="51" Name="List Table 6 Colorful Accent 3"/>\n<w:LsdExcepti
-	on Locked="false" Priority="52" Name="List Table 7 Colorful Accent 3"/>\n<
-	w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accen
-	t 4"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2 Ac
-	cent 4"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3
-	 Accent 4"/>\n<w:LsdException Locked="false" Priority="49" Name="List Tabl
-	e 4 Accent 4"/>\n<w:LsdException Locked="false" Priority="50" Name="List T
-	able 5 Dark Accent 4"/>\n<w:LsdException Locked="false" Priority="51" Name
-	="List Table 6 Colorful Accent 4"/>\n<w:LsdException Locked="false" Priori
-	ty="52" Name="List Table 7 Colorful Accent 4"/>\n<w:LsdException Locked="f
-	alse" Priority="46" Name="List Table 1 Light Accent 5"/>\n<w:LsdException 
-	Locked="false" Priority="47" Name="List Table 2 Accent 5"/>\n<w:LsdExcepti
-	on Locked="false" Priority="48" Name="List Table 3 Accent 5"/>\n<w:LsdExce
-	ption Locked="false" Priority="49" Name="List Table 4 Accent 5"/>\n<w:LsdE
-	xception Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>\
-	n<w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful 
-	Accent 5"/>\n<w:LsdException Locked="false" Priority="52" Name="List Table
-	 7 Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority="46" Name
-	="List Table 1 Light Accent 6"/>\n<w:LsdException Locked="false" Priority=
-	"47" Name="List Table 2 Accent 6"/>\n<w:LsdException Locked="false" Priori
-	ty="48" Name="List Table 3 Accent 6"/>\n<w:LsdException Locked="false" Pri
-	ority="49" Name="List Table 4 Accent 6"/>\n<w:LsdException Locked="false" 
-	Priority="50" Name="List Table 5 Dark Accent 6"/>\n<w:LsdException Locked=
-	"false" Priority="51" Name="List Table 6 Colorful Accent 6"/>\n<w:LsdExcep
-	tion Locked="false" Priority="52" Name="List Table 7 Colorful Accent 6"/>\
+	able Simple 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideW
+	henUsed="true" Name="Table Classic 1"/>\n<w:LsdException Locked="false" Se
+	miHidden="true" UnhideWhenUsed="true" Name="Table Classic 2"/>\n<w:LsdExce
+	ption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table C
+	lassic 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
+	ed="true" Name="Table Classic 4"/>\n<w:LsdException Locked="false" SemiHid
+	den="true" UnhideWhenUsed="true" Name="Table Colorful 1"/>\n<w:LsdExceptio
+	n Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Color
+	ful 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed=
+	"true" Name="Table Colorful 3"/>\n<w:LsdException Locked="false" SemiHidde
+	n="true" UnhideWhenUsed="true" Name="Table Columns 1"/>\n<w:LsdException L
+	ocked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 
+	2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
+	e" Name="Table Columns 3"/>\n<w:LsdException Locked="false" SemiHidden="tr
+	ue" UnhideWhenUsed="true" Name="Table Columns 4"/>\n<w:LsdException Locked
+	="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 5"/>\
 	n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Na
-	me="Mention"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
-	nUsed="true" Name="Smart Hyperlink"/>\n<w:LsdException Locked="false" Semi
-	Hidden="true" UnhideWhenUsed="true" Name="Hashtag"/>\n<w:LsdException Lock
-	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="Unresolved Mentio
-	n"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
-	e" Name="Smart Link"/>\n</w:LatentStyles>\n</xml><![endif]--><style><!--\n
-	/* Font Definitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panos
-	e-1:2 4 5 3 5 4 6 3 2 4\;\n	mso-font-charset:0\;\n	mso-generic-font-family
-	:roman\;\n	mso-font-pitch:variable\;\n	mso-font-signature:-536869121 11073
-	05727 33554432 0 415 0\;}\n@font-face\n	{font-family:"Aptos Display"\;\n	m
-	so-font-charset:0\;\n	mso-generic-font-family:swiss\;\n	mso-font-pitch:var
-	iable\;\n	mso-font-signature:536871559 3 0 0 415 0\;}\n@font-face\n	{font-
-	family:Aptos\;\n	mso-font-charset:0\;\n	mso-generic-font-family:swiss\;\n	
-	mso-font-pitch:variable\;\n	mso-font-signature:536871559 3 0 0 415 0\;}\n@
-	font-face\n	{font-family:"Segoe UI Emoji"\;\n	panose-1:2 11 5 2 4 2 4 2 2 
-	3\;\n	mso-font-charset:0\;\n	mso-generic-font-family:swiss\;\n	mso-font-pi
-	tch:variable\;\n	mso-font-signature:3 33554432 0 0 1 0\;}\n@font-face\n	{f
-	ont-family:David\;\n	panose-1:2 14 5 2 6 4 1 1 1 1\;\n	mso-font-charset:0\
-	;\n	mso-generic-font-family:swiss\;\n	mso-font-pitch:variable\;\n	mso-font
-	-signature:2051 0 0 0 33 0\;}\n/* Style Definitions */\np.MsoNormal\, li.M
-	soNormal\, div.MsoNormal\n	{mso-style-unhide:no\;\n	mso-style-qformat:yes\
-	;\n	mso-style-parent:""\;\n	margin:0cm\;\n	mso-pagination:widow-orphan\;\n
-		font-size:12.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-font
-	-family:Aptos\;\n	mso-bidi-font-family:Aptos\;}\nh2\n	{mso-style-priority:
+	me="Table Grid 1"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhi
+	deWhenUsed="true" Name="Table Grid 2"/>\n<w:LsdException Locked="false" Se
+	miHidden="true" UnhideWhenUsed="true" Name="Table Grid 3"/>\n<w:LsdExcepti
+	on Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid
+	 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tr
+	ue" Name="Table Grid 5"/>\n<w:LsdException Locked="false" SemiHidden="true
+	" UnhideWhenUsed="true" Name="Table Grid 6"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 7"/>\n<w:LsdE
+	xception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Tabl
+	e Grid 8"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUs
+	ed="true" Name="Table List 1"/>\n<w:LsdException Locked="false" SemiHidden
+	="true" UnhideWhenUsed="true" Name="Table List 2"/>\n<w:LsdException Locke
+	d="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 3"/>\n<
+	w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name
+	="Table List 4"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhide
+	WhenUsed="true" Name="Table List 5"/>\n<w:LsdException Locked="false" Semi
+	Hidden="true" UnhideWhenUsed="true" Name="Table List 6"/>\n<w:LsdException
+	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 7
+	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
+	" Name="Table List 8"/>\n<w:LsdException Locked="false" SemiHidden="true" 
+	UnhideWhenUsed="true" Name="Table 3D effects 1"/>\n<w:LsdException Locked=
+	"false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 2"/
+	>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" 
+	Name="Table 3D effects 3"/>\n<w:LsdException Locked="false" SemiHidden="tr
+	ue" UnhideWhenUsed="true" Name="Table Contemporary"/>\n<w:LsdException Loc
+	ked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Elegant"/>
+	\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" N
+	ame="Table Professional"/>\n<w:LsdException Locked="false" SemiHidden="tru
+	e" UnhideWhenUsed="true" Name="Table Subtle 1"/>\n<w:LsdException Locked="
+	false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 2"/>\n<w
+	:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name=
+	"Table Web 1"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWh
+	enUsed="true" Name="Table Web 2"/>\n<w:LsdException Locked="false" SemiHid
+	den="true" UnhideWhenUsed="true" Name="Table Web 3"/>\n<w:LsdException Loc
+	ked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Balloon Text"/>\
+	n<w:LsdException Locked="false" Priority="39" Name="Table Grid"/>\n<w:LsdE
+	xception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Tabl
+	e Theme"/>\n<w:LsdException Locked="false" SemiHidden="true" Name="Placeho
+	lder Text"/>\n<w:LsdException Locked="false" Priority="1" QFormat="true" N
+	ame="No Spacing"/>\n<w:LsdException Locked="false" Priority="60" Name="Lig
+	ht Shading"/>\n<w:LsdException Locked="false" Priority="61" Name="Light Li
+	st"/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid"/>\n<
+	w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>\n<w:
+	LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>\n<w:Ls
+	dException Locked="false" Priority="65" Name="Medium List 1"/>\n<w:LsdExce
+	ption Locked="false" Priority="66" Name="Medium List 2"/>\n<w:LsdException
+	 Locked="false" Priority="67" Name="Medium Grid 1"/>\n<w:LsdException Lock
+	ed="false" Priority="68" Name="Medium Grid 2"/>\n<w:LsdException Locked="f
+	alse" Priority="69" Name="Medium Grid 3"/>\n<w:LsdException Locked="false"
+	 Priority="70" Name="Dark List"/>\n<w:LsdException Locked="false" Priority
+	="71" Name="Colorful Shading"/>\n<w:LsdException Locked="false" Priority="
+	72" Name="Colorful List"/>\n<w:LsdException Locked="false" Priority="73" N
+	ame="Colorful Grid"/>\n<w:LsdException Locked="false" Priority="60" Name="
+	Light Shading Accent 1"/>\n<w:LsdException Locked="false" Priority="61" Na
+	me="Light List Accent 1"/>\n<w:LsdException Locked="false" Priority="62" N
+	ame="Light Grid Accent 1"/>\n<w:LsdException Locked="false" Priority="63" 
+	Name="Medium Shading 1 Accent 1"/>\n<w:LsdException Locked="false" Priorit
+	y="64" Name="Medium Shading 2 Accent 1"/>\n<w:LsdException Locked="false" 
+	Priority="65" Name="Medium List 1 Accent 1"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" Name="Revision"/>\n<w:LsdException Locked="false" Pr
+	iority="34" QFormat="true" Name="List Paragraph"/>\n<w:LsdException Locked
+	="false" Priority="29" QFormat="true" Name="Quote"/>\n<w:LsdException Lock
+	ed="false" Priority="30" QFormat="true" Name="Intense Quote"/>\n<w:LsdExce
+	ption Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>\n<w:Lsd
+	Exception Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>\n<w
+	:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+	\n<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 
+	1"/>\n<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 
+	1"/>\n<w:LsdException Locked="false" Priority="71" Name="Colorful Shading 
+	Accent 1"/>\n<w:LsdException Locked="false" Priority="72" Name="Colorful L
+	ist Accent 1"/>\n<w:LsdException Locked="false" Priority="73" Name="Colorf
+	ul Grid Accent 1"/>\n<w:LsdException Locked="false" Priority="60" Name="Li
+	ght Shading Accent 2"/>\n<w:LsdException Locked="false" Priority="61" Name
+	="Light List Accent 2"/>\n<w:LsdException Locked="false" Priority="62" Nam
+	e="Light Grid Accent 2"/>\n<w:LsdException Locked="false" Priority="63" Na
+	me="Medium Shading 1 Accent 2"/>\n<w:LsdException Locked="false" Priority=
+	"64" Name="Medium Shading 2 Accent 2"/>\n<w:LsdException Locked="false" Pr
+	iority="65" Name="Medium List 1 Accent 2"/>\n<w:LsdException Locked="false
+	" Priority="66" Name="Medium List 2 Accent 2"/>\n<w:LsdException Locked="f
+	alse" Priority="67" Name="Medium Grid 1 Accent 2"/>\n<w:LsdException Locke
+	d="false" Priority="68" Name="Medium Grid 2 Accent 2"/>\n<w:LsdException L
+	ocked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>\n<w:LsdExcepti
+	on Locked="false" Priority="70" Name="Dark List Accent 2"/>\n<w:LsdExcepti
+	on Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>\n<w:Lsd
+	Exception Locked="false" Priority="72" Name="Colorful List Accent 2"/>\n<w
+	:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+	\n<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 
+	3"/>\n<w:LsdException Locked="false" Priority="61" Name="Light List Accent
+	 3"/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Accen
+	t 3"/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading 
+	1 Accent 3"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium S
+	hading 2 Accent 3"/>\n<w:LsdException Locked="false" Priority="65" Name="M
+	edium List 1 Accent 3"/>\n<w:LsdException Locked="false" Priority="66" Nam
+	e="Medium List 2 Accent 3"/>\n<w:LsdException Locked="false" Priority="67"
+	 Name="Medium Grid 1 Accent 3"/>\n<w:LsdException Locked="false" Priority=
+	"68" Name="Medium Grid 2 Accent 3"/>\n<w:LsdException Locked="false" Prior
+	ity="69" Name="Medium Grid 3 Accent 3"/>\n<w:LsdException Locked="false" P
+	riority="70" Name="Dark List Accent 3"/>\n<w:LsdException Locked="false" P
+	riority="71" Name="Colorful Shading Accent 3"/>\n<w:LsdException Locked="f
+	alse" Priority="72" Name="Colorful List Accent 3"/>\n<w:LsdException Locke
+	d="false" Priority="73" Name="Colorful Grid Accent 3"/>\n<w:LsdException L
+	ocked="false" Priority="60" Name="Light Shading Accent 4"/>\n<w:LsdExcepti
+	on Locked="false" Priority="61" Name="Light List Accent 4"/>\n<w:LsdExcept
+	ion Locked="false" Priority="62" Name="Light Grid Accent 4"/>\n<w:LsdExcep
+	tion Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>\n<w:L
+	sdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/
+	>\n<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent
+	 4"/>\n<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Ac
+	cent 4"/>\n<w:LsdException Locked="false" Priority="67" Name="Medium Grid 
+	1 Accent 4"/>\n<w:LsdException Locked="false" Priority="68" Name="Medium G
+	rid 2 Accent 4"/>\n<w:LsdException Locked="false" Priority="69" Name="Medi
+	um Grid 3 Accent 4"/>\n<w:LsdException Locked="false" Priority="70" Name="
+	Dark List Accent 4"/>\n<w:LsdException Locked="false" Priority="71" Name="
+	Colorful Shading Accent 4"/>\n<w:LsdException Locked="false" Priority="72"
+	 Name="Colorful List Accent 4"/>\n<w:LsdException Locked="false" Priority=
+	"73" Name="Colorful Grid Accent 4"/>\n<w:LsdException Locked="false" Prior
+	ity="60" Name="Light Shading Accent 5"/>\n<w:LsdException Locked="false" P
+	riority="61" Name="Light List Accent 5"/>\n<w:LsdException Locked="false" 
+	Priority="62" Name="Light Grid Accent 5"/>\n<w:LsdException Locked="false"
+	 Priority="63" Name="Medium Shading 1 Accent 5"/>\n<w:LsdException Locked=
+	"false" Priority="64" Name="Medium Shading 2 Accent 5"/>\n<w:LsdException 
+	Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>\n<w:LsdExcept
+	ion Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>\n<w:LsdEx
+	ception Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>\n<w:L
+	sdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>\n
+	<w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"
+	/>\n<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"
+	/>\n<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Ac
+	cent 5"/>\n<w:LsdException Locked="false" Priority="72" Name="Colorful Lis
+	t Accent 5"/>\n<w:LsdException Locked="false" Priority="73" Name="Colorful
+	 Grid Accent 5"/>\n<w:LsdException Locked="false" Priority="60" Name="Ligh
+	t Shading Accent 6"/>\n<w:LsdException Locked="false" Priority="61" Name="
+	Light List Accent 6"/>\n<w:LsdException Locked="false" Priority="62" Name=
+	"Light Grid Accent 6"/>\n<w:LsdException Locked="false" Priority="63" Name
+	="Medium Shading 1 Accent 6"/>\n<w:LsdException Locked="false" Priority="6
+	4" Name="Medium Shading 2 Accent 6"/>\n<w:LsdException Locked="false" Prio
+	rity="65" Name="Medium List 1 Accent 6"/>\n<w:LsdException Locked="false" 
+	Priority="66" Name="Medium List 2 Accent 6"/>\n<w:LsdException Locked="fal
+	se" Priority="67" Name="Medium Grid 1 Accent 6"/>\n<w:LsdException Locked=
+	"false" Priority="68" Name="Medium Grid 2 Accent 6"/>\n<w:LsdException Loc
+	ked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>\n<w:LsdException
+	 Locked="false" Priority="70" Name="Dark List Accent 6"/>\n<w:LsdException
+	 Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>\n<w:LsdEx
+	ception Locked="false" Priority="72" Name="Colorful List Accent 6"/>\n<w:L
+	sdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>\n
+	<w:LsdException Locked="false" Priority="19" QFormat="true" Name="Subtle E
+	mphasis"/>\n<w:LsdException Locked="false" Priority="21" QFormat="true" Na
+	me="Intense Emphasis"/>\n<w:LsdException Locked="false" Priority="31" QFor
+	mat="true" Name="Subtle Reference"/>\n<w:LsdException Locked="false" Prior
+	ity="32" QFormat="true" Name="Intense Reference"/>\n<w:LsdException Locked
+	="false" Priority="33" QFormat="true" Name="Book Title"/>\n<w:LsdException
+	 Locked="false" Priority="37" SemiHidden="true" UnhideWhenUsed="true" Name
+	="Bibliography"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden
+	="true" UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>\n<w:LsdE
+	xception Locked="false" Priority="41" Name="Plain Table 1"/>\n<w:LsdExcept
+	ion Locked="false" Priority="42" Name="Plain Table 2"/>\n<w:LsdException L
+	ocked="false" Priority="43" Name="Plain Table 3"/>\n<w:LsdException Locked
+	="false" Priority="44" Name="Plain Table 4"/>\n<w:LsdException Locked="fal
+	se" Priority="45" Name="Plain Table 5"/>\n<w:LsdException Locked="false" P
+	riority="40" Name="Grid Table Light"/>\n<w:LsdException Locked="false" Pri
+	ority="46" Name="Grid Table 1 Light"/>\n<w:LsdException Locked="false" Pri
+	ority="47" Name="Grid Table 2"/>\n<w:LsdException Locked="false" Priority=
+	"48" Name="Grid Table 3"/>\n<w:LsdException Locked="false" Priority="49" N
+	ame="Grid Table 4"/>\n<w:LsdException Locked="false" Priority="50" Name="G
+	rid Table 5 Dark"/>\n<w:LsdException Locked="false" Priority="51" Name="Gr
+	id Table 6 Colorful"/>\n<w:LsdException Locked="false" Priority="52" Name=
+	"Grid Table 7 Colorful"/>\n<w:LsdException Locked="false" Priority="46" Na
+	me="Grid Table 1 Light Accent 1"/>\n<w:LsdException Locked="false" Priorit
+	y="47" Name="Grid Table 2 Accent 1"/>\n<w:LsdException Locked="false" Prio
+	rity="48" Name="Grid Table 3 Accent 1"/>\n<w:LsdException Locked="false" P
+	riority="49" Name="Grid Table 4 Accent 1"/>\n<w:LsdException Locked="false
+	" Priority="50" Name="Grid Table 5 Dark Accent 1"/>\n<w:LsdException Locke
+	d="false" Priority="51" Name="Grid Table 6 Colorful Accent 1"/>\n<w:LsdExc
+	eption Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 1"/
+	>\n<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light A
+	ccent 2"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid Table 
+	2 Accent 2"/>\n<w:LsdException Locked="false" Priority="48" Name="Grid Tab
+	le 3 Accent 2"/>\n<w:LsdException Locked="false" Priority="49" Name="Grid 
+	Table 4 Accent 2"/>\n<w:LsdException Locked="false" Priority="50" Name="Gr
+	id Table 5 Dark Accent 2"/>\n<w:LsdException Locked="false" Priority="51" 
+	Name="Grid Table 6 Colorful Accent 2"/>\n<w:LsdException Locked="false" Pr
+	iority="52" Name="Grid Table 7 Colorful Accent 2"/>\n<w:LsdException Locke
+	d="false" Priority="46" Name="Grid Table 1 Light Accent 3"/>\n<w:LsdExcept
+	ion Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>\n<w:LsdExc
+	eption Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>\n<w:Lsd
+	Exception Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>\n<w:
+	LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3
+	"/>\n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Color
+	ful Accent 3"/>\n<w:LsdException Locked="false" Priority="52" Name="Grid T
+	able 7 Colorful Accent 3"/>\n<w:LsdException Locked="false" Priority="46" 
+	Name="Grid Table 1 Light Accent 4"/>\n<w:LsdException Locked="false" Prior
+	ity="47" Name="Grid Table 2 Accent 4"/>\n<w:LsdException Locked="false" Pr
+	iority="48" Name="Grid Table 3 Accent 4"/>\n<w:LsdException Locked="false"
+	 Priority="49" Name="Grid Table 4 Accent 4"/>\n<w:LsdException Locked="fal
+	se" Priority="50" Name="Grid Table 5 Dark Accent 4"/>\n<w:LsdException Loc
+	ked="false" Priority="51" Name="Grid Table 6 Colorful Accent 4"/>\n<w:LsdE
+	xception Locked="false" Priority="52" Name="Grid Table 7 Colorful Accent 4
+	"/>\n<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light
+	 Accent 5"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid Tabl
+	e 2 Accent 5"/>\n<w:LsdException Locked="false" Priority="48" Name="Grid T
+	able 3 Accent 5"/>\n<w:LsdException Locked="false" Priority="49" Name="Gri
+	d Table 4 Accent 5"/>\n<w:LsdException Locked="false" Priority="50" Name="
+	Grid Table 5 Dark Accent 5"/>\n<w:LsdException Locked="false" Priority="51
+	" Name="Grid Table 6 Colorful Accent 5"/>\n<w:LsdException Locked="false" 
+	Priority="52" Name="Grid Table 7 Colorful Accent 5"/>\n<w:LsdException Loc
+	ked="false" Priority="46" Name="Grid Table 1 Light Accent 6"/>\n<w:LsdExce
+	ption Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>\n<w:LsdE
+	xception Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>\n<w:L
+	sdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>\n<
+	w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent
+	 6"/>\n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Col
+	orful Accent 6"/>\n<w:LsdException Locked="false" Priority="52" Name="Grid
+	 Table 7 Colorful Accent 6"/>\n<w:LsdException Locked="false" Priority="46
+	" Name="List Table 1 Light"/>\n<w:LsdException Locked="false" Priority="47
+	" Name="List Table 2"/>\n<w:LsdException Locked="false" Priority="48" Name
+	="List Table 3"/>\n<w:LsdException Locked="false" Priority="49" Name="List
+	 Table 4"/>\n<w:LsdException Locked="false" Priority="50" Name="List Table
+	 5 Dark"/>\n<w:LsdException Locked="false" Priority="51" Name="List Table 
+	6 Colorful"/>\n<w:LsdException Locked="false" Priority="52" Name="List Tab
+	le 7 Colorful"/>\n<w:LsdException Locked="false" Priority="46" Name="List 
+	Table 1 Light Accent 1"/>\n<w:LsdException Locked="false" Priority="47" Na
+	me="List Table 2 Accent 1"/>\n<w:LsdException Locked="false" Priority="48"
+	 Name="List Table 3 Accent 1"/>\n<w:LsdException Locked="false" Priority="
+	49" Name="List Table 4 Accent 1"/>\n<w:LsdException Locked="false" Priorit
+	y="50" Name="List Table 5 Dark Accent 1"/>\n<w:LsdException Locked="false"
+	 Priority="51" Name="List Table 6 Colorful Accent 1"/>\n<w:LsdException Lo
+	cked="false" Priority="52" Name="List Table 7 Colorful Accent 1"/>\n<w:Lsd
+	Exception Locked="false" Priority="46" Name="List Table 1 Light Accent 2"/
+	>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 
+	2"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3 Acce
+	nt 2"/>\n<w:LsdException Locked="false" Priority="49" Name="List Table 4 A
+	ccent 2"/>\n<w:LsdException Locked="false" Priority="50" Name="List Table 
+	5 Dark Accent 2"/>\n<w:LsdException Locked="false" Priority="51" Name="Lis
+	t Table 6 Colorful Accent 2"/>\n<w:LsdException Locked="false" Priority="5
+	2" Name="List Table 7 Colorful Accent 2"/>\n<w:LsdException Locked="false"
+	 Priority="46" Name="List Table 1 Light Accent 3"/>\n<w:LsdException Locke
+	d="false" Priority="47" Name="List Table 2 Accent 3"/>\n<w:LsdException Lo
+	cked="false" Priority="48" Name="List Table 3 Accent 3"/>\n<w:LsdException
+	 Locked="false" Priority="49" Name="List Table 4 Accent 3"/>\n<w:LsdExcept
+	ion Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>\n<w:L
+	sdException Locked="false" Priority="51" Name="List Table 6 Colorful Accen
+	t 3"/>\n<w:LsdException Locked="false" Priority="52" Name="List Table 7 Co
+	lorful Accent 3"/>\n<w:LsdException Locked="false" Priority="46" Name="Lis
+	t Table 1 Light Accent 4"/>\n<w:LsdException Locked="false" Priority="47" 
+	Name="List Table 2 Accent 4"/>\n<w:LsdException Locked="false" Priority="4
+	8" Name="List Table 3 Accent 4"/>\n<w:LsdException Locked="false" Priority
+	="49" Name="List Table 4 Accent 4"/>\n<w:LsdException Locked="false" Prior
+	ity="50" Name="List Table 5 Dark Accent 4"/>\n<w:LsdException Locked="fals
+	e" Priority="51" Name="List Table 6 Colorful Accent 4"/>\n<w:LsdException 
+	Locked="false" Priority="52" Name="List Table 7 Colorful Accent 4"/>\n<w:L
+	sdException Locked="false" Priority="46" Name="List Table 1 Light Accent 5
+	"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2 Accen
+	t 5"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3 Ac
+	cent 5"/>\n<w:LsdException Locked="false" Priority="49" Name="List Table 4
+	 Accent 5"/>\n<w:LsdException Locked="false" Priority="50" Name="List Tabl
+	e 5 Dark Accent 5"/>\n<w:LsdException Locked="false" Priority="51" Name="L
+	ist Table 6 Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority=
+	"52" Name="List Table 7 Colorful Accent 5"/>\n<w:LsdException Locked="fals
+	e" Priority="46" Name="List Table 1 Light Accent 6"/>\n<w:LsdException Loc
+	ked="false" Priority="47" Name="List Table 2 Accent 6"/>\n<w:LsdException 
+	Locked="false" Priority="48" Name="List Table 3 Accent 6"/>\n<w:LsdExcepti
+	on Locked="false" Priority="49" Name="List Table 4 Accent 6"/>\n<w:LsdExce
+	ption Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>\n<w
+	:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful Acc
+	ent 6"/>\n<w:LsdException Locked="false" Priority="52" Name="List Table 7 
+	Colorful Accent 6"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
+	ideWhenUsed="true" Name="Mention"/>\n<w:LsdException Locked="false" SemiHi
+	dden="true" UnhideWhenUsed="true" Name="Smart Hyperlink"/>\n<w:LsdExceptio
+	n Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Hashtag"/>\
+	n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Na
+	me="Unresolved Mention"/>\n<w:LsdException Locked="false" SemiHidden="true
+	" UnhideWhenUsed="true" Name="Smart Link"/>\n</w:LatentStyles>\n</xml><![e
+	ndif]--><style><!--\n/* Font Definitions */\n@font-face\n	{font-family:Win
+	gdings\;\n	panose-1:5 0 0 0 0 0 0 0 0 0\;\n	mso-font-charset:2\;\n	mso-gen
+	eric-font-family:auto\;\n	mso-font-pitch:variable\;\n	mso-font-signature:0
+	 268435456 0 0 -2147483648 0\;}\n@font-face\n	{font-family:"Cambria Math"\
+	;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;\n	mso-font-charset:0\;\n	mso-generic-fo
+	nt-family:roman\;\n	mso-font-pitch:variable\;\n	mso-font-signature:-536869
+	121 1107305727 33554432 0 415 0\;}\n@font-face\n	{font-family:"Aptos Displ
+	ay"\;\n	mso-font-charset:0\;\n	mso-generic-font-family:swiss\;\n	mso-font-
+	pitch:variable\;\n	mso-font-signature:536871559 3 0 0 415 0\;}\n@font-face
+	\n	{font-family:Aptos\;\n	mso-font-charset:0\;\n	mso-generic-font-family:s
+	wiss\;\n	mso-font-pitch:variable\;\n	mso-font-signature:536871559 3 0 0 41
+	5 0\;}\n@font-face\n	{font-family:"Segoe UI Emoji"\;\n	panose-1:2 11 5 2 4
+	 2 4 2 2 3\;\n	mso-font-charset:0\;\n	mso-generic-font-family:swiss\;\n	ms
+	o-font-pitch:variable\;\n	mso-font-signature:3 33554432 0 0 1 0\;}\n@font-
+	face\n	{font-family:David\;\n	panose-1:2 14 5 2 6 4 1 1 1 1\;\n	mso-font-c
+	harset:0\;\n	mso-generic-font-family:swiss\;\n	mso-font-pitch:variable\;\n
+		mso-font-signature:2051 0 0 0 33 0\;}\n/* Style Definitions */\np.MsoNorm
+	al\, li.MsoNormal\, div.MsoNormal\n	{mso-style-unhide:no\;\n	mso-style-qfo
+	rmat:yes\;\n	mso-style-parent:""\;\n	margin:0cm\;\n	mso-pagination:widow-o
+	rphan\;\n	font-size:12.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-far
+	east-font-family:Aptos\;\n	mso-bidi-font-family:Aptos\;}\nh1\n	{mso-style-
+	priority:9\;\n	mso-style-unhide:no\;\n	mso-style-qformat:yes\;\n	mso-style
+	-link:"Heading 1 Char"\;\n	mso-style-next:Normal\;\n	margin-top:18.0pt\;\n
+		margin-right:0cm\;\n	margin-bottom:4.0pt\;\n	margin-left:0cm\;\n	mso-pagi
+	nation:widow-orphan lines-together\;\n	page-break-after:avoid\;\n	mso-outl
+	ine-level:1\;\n	font-size:20.0pt\;\n	font-family:"Aptos Display"\,sans-ser
+	if\;\n	mso-ascii-font-family:"Aptos Display"\;\n	mso-fareast-font-family:"
+	Times New Roman"\;\n	mso-hansi-font-family:"Aptos Display"\;\n	mso-bidi-fo
+	nt-family:"Times New Roman"\;\n	color:#0F4761\;\n	mso-font-kerning:0pt\;\n
+		font-weight:normal\;}\nh2\n	{mso-style-noshow:yes\;\n	mso-style-priority:
 	9\;\n	mso-style-qformat:yes\;\n	mso-style-link:"Heading 2 Char"\;\n	mso-st
 	yle-next:Normal\;\n	margin-top:8.0pt\;\n	margin-right:0cm\;\n	margin-botto
 	m:4.0pt\;\n	margin-left:0cm\;\n	mso-pagination:widow-orphan lines-together
 	\;\n	page-break-after:avoid\;\n	mso-outline-level:2\;\n	font-size:16.0pt\;
-	\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-font-family:"Apto
-	s Display"\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-hansi-fon
-	t-family:"Aptos Display"\;\n	mso-bidi-font-family:"Times New Roman"\;\n	co
-	lor:#0F4761\;\n	font-weight:normal\;}\np.MsoTitle\, li.MsoTitle\, div.MsoT
-	itle\n	{mso-style-priority:10\;\n	mso-style-unhide:no\;\n	mso-style-qforma
-	t:yes\;\n	mso-style-link:"Title Char"\;\n	mso-style-next:Normal\;\n	margin
-	-top:0cm\;\n	margin-right:0cm\;\n	margin-bottom:4.0pt\;\n	margin-left:0cm\
-	;\n	mso-add-space:auto\;\n	mso-pagination:widow-orphan\;\n	font-size:28.0p
+	\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-fareast-font-family:"Ti
+	mes New Roman"\;\n	mso-bidi-font-family:"Times New Roman"\;\n	color:#0F476
+	1\;\n	font-weight:normal\;}\nh3\n	{mso-style-noshow:yes\;\n	mso-style-prio
+	rity:9\;\n	mso-style-qformat:yes\;\n	mso-style-link:"Heading 3 Char"\;\n	m
+	so-style-next:Normal\;\n	margin-top:8.0pt\;\n	margin-right:0cm\;\n	margin-
+	bottom:4.0pt\;\n	margin-left:0cm\;\n	mso-pagination:widow-orphan lines-tog
+	ether\;\n	page-break-after:avoid\;\n	mso-outline-level:3\;\n	font-size:14.
+	0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-ascii-font-family:Aptos\;\
+	n	mso-fareast-font-family:"Times New Roman"\;\n	mso-hansi-font-family:Apto
+	s\;\n	mso-bidi-font-family:"Times New Roman"\;\n	color:#0F4761\;\n	font-we
+	ight:normal\;}\np.MsoTitle\, li.MsoTitle\, div.MsoTitle\n	{mso-style-prior
+	ity:10\;\n	mso-style-unhide:no\;\n	mso-style-qformat:yes\;\n	mso-style-lin
+	k:"Title Char"\;\n	mso-style-next:Normal\;\n	margin-top:0cm\;\n	margin-rig
+	ht:0cm\;\n	margin-bottom:4.0pt\;\n	margin-left:0cm\;\n	mso-add-space:auto\
+	;\n	mso-pagination:widow-orphan\;\n	font-size:28.0pt\;\n	font-family:"Apto
+	s Display"\,sans-serif\;\n	mso-fareast-font-family:"Times New Roman"\;\n	m
+	so-bidi-font-family:"Times New Roman"\;\n	letter-spacing:-.5pt\;\n	mso-fon
+	t-kerning:14.0pt\;}\np.MsoTitleCxSpFirst\, li.MsoTitleCxSpFirst\, div.MsoT
+	itleCxSpFirst\n	{mso-style-priority:10\;\n	mso-style-unhide:no\;\n	mso-sty
+	le-qformat:yes\;\n	mso-style-link:"Title Char"\;\n	mso-style-next:Normal\;
+	\n	mso-style-type:export-only\;\n	margin:0cm\;\n	mso-add-space:auto\;\n	ms
+	o-pagination:widow-orphan\;\n	font-size:28.0pt\;\n	font-family:"Aptos Disp
+	lay"\,sans-serif\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-bid
+	i-font-family:"Times New Roman"\;\n	letter-spacing:-.5pt\;\n	mso-font-kern
+	ing:14.0pt\;}\np.MsoTitleCxSpMiddle\, li.MsoTitleCxSpMiddle\, div.MsoTitle
+	CxSpMiddle\n	{mso-style-priority:10\;\n	mso-style-unhide:no\;\n	mso-style-
+	qformat:yes\;\n	mso-style-link:"Title Char"\;\n	mso-style-next:Normal\;\n	
+	mso-style-type:export-only\;\n	margin:0cm\;\n	mso-add-space:auto\;\n	mso-p
+	agination:widow-orphan\;\n	font-size:28.0pt\;\n	font-family:"Aptos Display
+	"\,sans-serif\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-bidi-f
+	ont-family:"Times New Roman"\;\n	letter-spacing:-.5pt\;\n	mso-font-kerning
+	:14.0pt\;}\np.MsoTitleCxSpLast\, li.MsoTitleCxSpLast\, div.MsoTitleCxSpLas
+	t\n	{mso-style-priority:10\;\n	mso-style-unhide:no\;\n	mso-style-qformat:y
+	es\;\n	mso-style-link:"Title Char"\;\n	mso-style-next:Normal\;\n	mso-style
+	-type:export-only\;\n	margin-top:0cm\;\n	margin-right:0cm\;\n	margin-botto
+	m:4.0pt\;\n	margin-left:0cm\;\n	mso-add-space:auto\;\n	mso-pagination:wido
+	w-orphan\;\n	font-size:28.0pt\;\n	font-family:"Aptos Display"\,sans-serif\
+	;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-bidi-font-family:"Ti
+	mes New Roman"\;\n	letter-spacing:-.5pt\;\n	mso-font-kerning:14.0pt\;}\na:
+	link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:blue\;\n	text-
+	decoration:underline\;\n	text-underline:single\;}\na:visited\, span.MsoHyp
+	erlinkFollowed\n	{mso-style-noshow:yes\;\n	mso-style-priority:99\;\n	color
+	:purple\;\n	text-decoration:underline\;\n	text-underline:single\;}\nspan.H
+	eading2Char\n	{mso-style-name:"Heading 2 Char"\;\n	mso-style-noshow:yes\;\
+	n	mso-style-priority:9\;\n	mso-style-unhide:no\;\n	mso-style-locked:yes\;\
+	n	mso-style-link:"Heading 2"\;\n	mso-ansi-font-size:16.0pt\;\n	mso-bidi-fo
+	nt-size:16.0pt\;\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-f
+	ont-family:"Aptos Display"\;\n	mso-fareast-font-family:"Times New Roman"\;
+	\n	mso-hansi-font-family:"Aptos Display"\;\n	mso-bidi-font-family:"Times N
+	ew Roman"\;\n	color:#0F4761\;}\np.msonormal0\, li.msonormal0\, div.msonorm
+	al0\n	{mso-style-name:msonormal\;\n	mso-style-unhide:no\;\n	mso-margin-top
+	-alt:auto\;\n	margin-right:0cm\;\n	mso-margin-bottom-alt:auto\;\n	margin-l
+	eft:0cm\;\n	mso-pagination:widow-orphan\;\n	font-size:12.0pt\;\n	font-fami
+	ly:"Aptos"\,sans-serif\;\n	mso-fareast-font-family:Aptos\;\n	mso-bidi-font
+	-family:Aptos\;}\nspan.TitleChar\n	{mso-style-name:"Title Char"\;\n	mso-st
+	yle-priority:10\;\n	mso-style-unhide:no\;\n	mso-style-locked:yes\;\n	mso-s
+	tyle-link:Title\;\n	mso-ansi-font-size:28.0pt\;\n	mso-bidi-font-size:28.0p
 	t\;\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-font-family:"A
 	ptos Display"\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-hansi-
 	font-family:"Aptos Display"\;\n	mso-bidi-font-family:"Times New Roman"\;\n
-		letter-spacing:-.5pt\;\n	mso-font-kerning:14.0pt\;}\np.MsoTitleCxSpFirst\
-	, li.MsoTitleCxSpFirst\, div.MsoTitleCxSpFirst\n	{mso-style-priority:10\;\
-	n	mso-style-unhide:no\;\n	mso-style-qformat:yes\;\n	mso-style-link:"Title 
-	Char"\;\n	mso-style-next:Normal\;\n	mso-style-type:export-only\;\n	margin:
-	0cm\;\n	mso-add-space:auto\;\n	mso-pagination:widow-orphan\;\n	font-size:2
-	8.0pt\;\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-font-famil
-	y:"Aptos Display"\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-ha
-	nsi-font-family:"Aptos Display"\;\n	mso-bidi-font-family:"Times New Roman"
-	\;\n	letter-spacing:-.5pt\;\n	mso-font-kerning:14.0pt\;}\np.MsoTitleCxSpMi
-	ddle\, li.MsoTitleCxSpMiddle\, div.MsoTitleCxSpMiddle\n	{mso-style-priorit
-	y:10\;\n	mso-style-unhide:no\;\n	mso-style-qformat:yes\;\n	mso-style-link:
-	"Title Char"\;\n	mso-style-next:Normal\;\n	mso-style-type:export-only\;\n	
-	margin:0cm\;\n	mso-add-space:auto\;\n	mso-pagination:widow-orphan\;\n	font
-	-size:28.0pt\;\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-fon
-	t-family:"Aptos Display"\;\n	mso-fareast-font-family:"Times New Roman"\;\n
-		mso-hansi-font-family:"Aptos Display"\;\n	mso-bidi-font-family:"Times New
-	 Roman"\;\n	letter-spacing:-.5pt\;\n	mso-font-kerning:14.0pt\;}\np.MsoTitl
-	eCxSpLast\, li.MsoTitleCxSpLast\, div.MsoTitleCxSpLast\n	{mso-style-priori
-	ty:10\;\n	mso-style-unhide:no\;\n	mso-style-qformat:yes\;\n	mso-style-link
-	:"Title Char"\;\n	mso-style-next:Normal\;\n	mso-style-type:export-only\;\n
-		margin-top:0cm\;\n	margin-right:0cm\;\n	margin-bottom:4.0pt\;\n	margin-le
-	ft:0cm\;\n	mso-add-space:auto\;\n	mso-pagination:widow-orphan\;\n	font-siz
-	e:28.0pt\;\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-font-fa
-	mily:"Aptos Display"\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso
-	-hansi-font-family:"Aptos Display"\;\n	mso-bidi-font-family:"Times New Rom
-	an"\;\n	letter-spacing:-.5pt\;\n	mso-font-kerning:14.0pt\;}\na:link\, span
-	.MsoHyperlink\n	{mso-style-priority:99\;\n	color:blue\;\n	text-decoration:
-	underline\;\n	text-underline:single\;}\na:visited\, span.MsoHyperlinkFollo
-	wed\n	{mso-style-noshow:yes\;\n	mso-style-priority:99\;\n	color:purple\;\n
-		text-decoration:underline\;\n	text-underline:single\;}\np.msonormal0\, li
-	.msonormal0\, div.msonormal0\n	{mso-style-name:msonormal\;\n	mso-style-unh
-	ide:no\;\n	mso-margin-top-alt:auto\;\n	margin-right:0cm\;\n	mso-margin-bot
-	tom-alt:auto\;\n	margin-left:0cm\;\n	mso-pagination:widow-orphan\;\n	font-
-	size:12.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	mso-fareast-font-famil
-	y:Aptos\;\n	mso-bidi-font-family:Aptos\;}\nspan.EmailStyle18\n	{mso-style-
-	type:personal-compose\;\n	mso-style-noshow:yes\;\n	mso-style-unhide:no\;\n
-		mso-ansi-font-size:10.0pt\;\n	mso-bidi-font-size:10.0pt\;}\nspan.TitleCha
-	r\n	{mso-style-name:"Title Char"\;\n	mso-style-priority:10\;\n	mso-style-u
-	nhide:no\;\n	mso-style-locked:yes\;\n	mso-style-link:Title\;\n	mso-ansi-fo
-	nt-size:28.0pt\;\n	mso-bidi-font-size:28.0pt\;\n	font-family:"Aptos Displa
-	y"\,sans-serif\;\n	mso-ascii-font-family:"Aptos Display"\;\n	mso-fareast-f
-	ont-family:"Times New Roman"\;\n	mso-hansi-font-family:"Aptos Display"\;\n
-		mso-bidi-font-family:"Times New Roman"\;\n	letter-spacing:-.5pt\;\n	mso-f
-	ont-kerning:14.0pt\;}\nspan.Heading2Char\n	{mso-style-name:"Heading 2 Char
-	"\;\n	mso-style-priority:9\;\n	mso-style-unhide:no\;\n	mso-style-locked:ye
-	s\;\n	mso-style-link:"Heading 2"\;\n	mso-ansi-font-size:16.0pt\;\n	mso-bid
-	i-font-size:16.0pt\;\n	font-family:"Aptos Display"\,sans-serif\;\n	mso-asc
-	ii-font-family:"Aptos Display"\;\n	mso-fareast-font-family:"Times New Roma
-	n"\;\n	mso-hansi-font-family:"Aptos Display"\;\n	mso-bidi-font-family:"Tim
-	es New Roman"\;\n	color:#0F4761\;}\nspan.SpellE\n	{mso-style-name:""\;\n	m
-	so-spl-e:yes\;}\nspan.GramE\n	{mso-style-name:""\;\n	mso-gram-e:yes\;}\n.M
-	soChpDefault\n	{mso-style-type:export-only\;\n	mso-default-props:yes\;\n	f
-	ont-size:10.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	mso-bidi-font-size:10.0p
-	t\;\n	mso-font-kerning:0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n
-		{size:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;\n	mso-head
-	er-margin:36.0pt\;\n	mso-footer-margin:36.0pt\;\n	mso-paper-source:0\;}\nd
-	iv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 10]><s
-	tyle>/* Style Definitions */\ntable.MsoNormalTable\n	{mso-style-name:"Tabl
-	e Normal"\;\n	mso-tstyle-rowband-size:0\;\n	mso-tstyle-colband-size:0\;\n	
-	mso-style-noshow:yes\;\n	mso-style-priority:99\;\n	mso-style-parent:""\;\n
-		mso-padding-alt:0cm 5.4pt 0cm 5.4pt\;\n	mso-para-margin:0cm\;\n	mso-pagin
-	ation:widow-orphan\;\n	font-size:10.0pt\;\n	font-family:"Times New Roman"\
-	,serif\;}\n</style><![endif]--><!--[if gte mso 9]><xml>\n<o:shapedefaults 
-	v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>
-	\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sha
-	pelayout></xml><![endif]--></head><body lang=en-IL link=blue vlink=purple 
-	style='tab-interval:36.0pt\;word-wrap:break-word'><div class=WordSection1>
-	<p><span class=TitleChar><span style='font-size:28.0pt'>Future Data Driven
-	 Summit 2024<o:p></o:p></span></span></p><p><b><span style='font-family:"D
-	avid"\,sans-serif'>Date and Time</span></b><span style='font-family:"David
-	"\,sans-serif'> - Sep 25\, 2024\, 9:00 AM to 8:00 PM Eastern Time (US &amp
-	\; Canada)<br><b>Venue</b> - Online (<a href="https://bit.ly/fdd2024hub">h
-	ttps://bit.ly/fdd2024hub</a>)</span><span style='font-size:16.0pt\;font-fa
-	mily:"David"\,sans-serif'><o:p></o:p></span></p><p><span style='font-famil
-	y:"David"\,sans-serif'>We sincerely thank you for being a part of this won
-	derful virtual conference. Your participation is what makes this event tru
-	ly special.<o:p></o:p></span></p><h2>## What is the Future Data Driven Sum
-	mit? <o:p></o:p></h2><p><span style='font-family:"David"\,sans-serif'>The 
-	Future Data Driven summit is an annual joint event of data platforms commu
-	nities and user groups\, focuses on cutting-edge data platforms and AI tec
-	hnologies. This year marks our fourth edition\, and we’re excited to bri
-	ng together industry experts\, thought leaders\, and enthusiasts from arou
-	nd the world.</span><span style='font-size:16.0pt\;font-family:"David"\,sa
-	ns-serif'><o:p></o:p></span></p><h2>## What are your experience expectatio
-	ns? <o:p></o:p></h2><p><span style='font-family:"David"\,sans-serif'>You w
-	ill have the chance to learn from other data and AI experts. Additionally\
-	, we have planned fun activities\, including opportunities to virtually in
-	troduce yourself during the lunch break and participate in a raffle during
-	 the closing session.</span><span style='font-size:16.0pt\;font-family:"Da
-	vid"\,sans-serif'><o:p></o:p></span></p><h2>## How to Join a Session? <o:p
-	></o:p></h2><p><span style='font-family:"David"\,sans-serif'>The summit wi
-	ll kick off in the Hub virtual room at 9:00 am Eastern Time (US &amp\; Can
-	ada).</span><span style='font-size:16.0pt\;font-family:"David"\,sans-serif
-	'> <br></span><span style='font-family:"David"\,sans-serif'><a href="https
-	://bit.ly/fdd2024hub">https://bit.ly/fdd2024hub</a></span><span style='fon
-	t-size:16.0pt\;font-family:"David"\,sans-serif'> <o:p></o:p></span></p><p>
-	<span style='font-family:"David"\,sans-serif'>The opening session\, held i
-	n the <b>Hub room</b>\, is essential for all participants. During this ses
-	sion\, we will provide a comprehensive overview of the day’s schedule\, 
-	explain how to join various sessions\, and share all the information you n
-	eed to make the most of the event.</span><span style='font-size:16.0pt\;fo
-	nt-family:"David"\,sans-serif'><o:p></o:p></span></p><p><span style='font-
-	family:"David"\,sans-serif'>This room will serve as the main hall for the 
-	entire event\, remaining open throughout the day. In the Hub room\, you ca
-	n find all the information about the upcoming sessions\, get support\, and
-	 network with other attendees.</span><span style='font-size:16.0pt\;font-f
-	amily:"David"\,sans-serif'><o:p></o:p></span></p><p><span style='font-fami
-	ly:"David"\,sans-serif'>Additionally\, the Hub room will host the after-pa
-	rty and various fun activities\, including swag giveaways. Make sure to dr
-	op by for an engaging and informative experience!</span><span style='font-
-	size:16.0pt\;font-family:"David"\,sans-serif'><o:p></o:p></span></p><p><sp
-	an style='font-family:"David"\,sans-serif'>Notes: If you are not sure abou
-	t the sessions and virtual rooms\, please visit the website as more detail
-	s are available there.</span><span style='font-size:16.0pt\;font-family:"D
-	avid"\,sans-serif'><o:p></o:p></span></p><p><span style='font-family:"Davi
-	d"\,sans-serif'><a href="https://datadrivencommunity.com/FutureDataDriven2
-	024.html">https://datadrivencommunity.com/FutureDataDriven2024.html</a></s
-	pan><span style='font-size:16.0pt\;font-family:"David"\,sans-serif'> <o:p>
-	</o:p></span></p><h2>## How to get support during the event? <o:p></o:p></
-	h2><p><span style='font-family:"David"\,sans-serif'>If you have any techni
-	cal issue during the event\, then you can use the Support channel on Teams
-	 or use the <span class=SpellE><b>QnA</b></span><b> here in the Hub virtua
-	l room</b>. (Note: Chat is for networking and <span class=SpellE>QnA</span
-	> for support).</span><span style='font-size:16.0pt\;font-family:"David"\,
-	sans-serif'><o:p></o:p></span></p><p><span style='font-family:"David"\,san
-	s-serif'>If you have any questions before the event\, you can contact <b>R
-	onen Ariely</b> on Facebook (<a href="https://www.facebook.com/ronen.ariel
-	y">https://www.facebook.com/ronen.ariely</a>) or LinkedIn (<a href="https:
-	//www.linkedin.com/in/pitoach/">https://www.linkedin.com/in/pitoach/</a>).
-	</span><span style='font-size:16.0pt\;font-family:"David"\,sans-serif'><o:
-	p></o:p></span></p><p><span style='font-family:"David"\,sans-serif'>-----<
-	/span><span style='font-size:16.0pt\;font-family:"David"\,sans-serif'> <br
-	></span><b><span style='font-family:"David"\,sans-serif'>Let’s make the 
-	most of this event together! </span></b><b><span style='font-family:"Segoe
-	 UI Emoji"\,sans-serif\;mso-bidi-font-family:"Segoe UI Emoji"'>&#127881\;<
-	/span></b><span style='font-size:16.0pt\;font-family:"David"\,sans-serif'>
-	 <o:p></o:p></span></p><p><span style='font-family:"David"\,sans-serif'>Th
-	ank you for registering!<o:p></o:p></span></p><p><span style='font-family:
-	"David"\,sans-serif'>We look forward to seeing you at the <b>Future Data D
-	riven</b> Summit 2024 on <b>September 25th</b>!</span><span style='font-si
-	ze:16.0pt\;font-family:"David"\,sans-serif'> <o:p></o:p></span></p></div><
+		letter-spacing:-.5pt\;\n	mso-font-kerning:14.0pt\;}\nspan.EmailStyle21\n	
+	{mso-style-type:personal-compose\;\n	mso-style-noshow:yes\;\n	mso-style-un
+	hide:no\;\n	mso-ansi-font-size:10.0pt\;\n	mso-bidi-font-size:10.0pt\;}\nsp
+	an.Heading1Char\n	{mso-style-name:"Heading 1 Char"\;\n	mso-style-priority:
+	9\;\n	mso-style-unhide:no\;\n	mso-style-locked:yes\;\n	mso-style-link:"Hea
+	ding 1"\;\n	mso-ansi-font-size:20.0pt\;\n	mso-bidi-font-size:20.0pt\;\n	fo
+	nt-family:"Aptos Display"\,sans-serif\;\n	mso-ascii-font-family:"Aptos Dis
+	play"\;\n	mso-fareast-font-family:"Times New Roman"\;\n	mso-hansi-font-fam
+	ily:"Aptos Display"\;\n	mso-bidi-font-family:"Times New Roman"\;\n	color:#
+	0F4761\;}\nspan.Heading3Char\n	{mso-style-name:"Heading 3 Char"\;\n	mso-st
+	yle-noshow:yes\;\n	mso-style-priority:9\;\n	mso-style-unhide:no\;\n	mso-st
+	yle-locked:yes\;\n	mso-style-link:"Heading 3"\;\n	mso-ansi-font-size:14.0p
+	t\;\n	mso-bidi-font-size:14.0pt\;\n	font-family:"Aptos"\,sans-serif\;\n	ms
+	o-ascii-font-family:Aptos\;\n	mso-fareast-font-family:"Times New Roman"\;\
+	n	mso-hansi-font-family:Aptos\;\n	mso-bidi-font-family:"Times New Roman"\;
+	\n	color:#0F4761\;}\nspan.SpellE\n	{mso-style-name:""\;\n	mso-spl-e:yes\;}
+	\nspan.GramE\n	{mso-style-name:""\;\n	mso-gram-e:yes\;}\n.MsoChpDefault\n	
+	{mso-style-type:export-only\;\n	mso-default-props:yes\;\n	font-size:10.0pt
+	\;\n	mso-ansi-font-size:10.0pt\;\n	mso-bidi-font-size:10.0pt\;\n	mso-font-
+	kerning:0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{size:612.0pt 
+	792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;\n	mso-header-margin:36.0p
+	t\;\n	mso-footer-margin:36.0pt\;\n	mso-paper-source:0\;}\ndiv.WordSection1
+	\n	{page:WordSection1\;}\n/* List Definitions */\n@list l0\n	{mso-list-id:
+	155270298\;\n	mso-list-template-ids:1406819866\;}\n@list l0:level1\n	{mso-
+	level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:3
+	6.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-a
+	nsi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l0:level2\n	{mso-lev
+	el-number-format:bullet\;\n	mso-level-text:o\;\n	mso-level-tab-stop:72.0pt
+	\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-f
+	ont-size:10.0pt\;\n	font-family:"Courier New"\;\n	mso-bidi-font-family:"Ti
+	mes New Roman"\;}\n@list l0:level3\n	{mso-level-number-format:bullet\;\n	m
+	so-level-text:\;\n	mso-level-tab-stop:108.0pt\;\n	mso-level-number-posi
+	tion:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-f
+	amily:Wingdings\;}\n@list l0:level4\n	{mso-level-number-format:bullet\;\n	
+	mso-level-text:\;\n	mso-level-tab-stop:144.0pt\;\n	mso-level-number-pos
+	ition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-
+	family:Wingdings\;}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n
+		mso-level-text:\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-number-po
+	sition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font
+	-family:Wingdings\;}\n@list l0:level6\n	{mso-level-number-format:bullet\;\
+	n	mso-level-text:\;\n	mso-level-tab-stop:216.0pt\;\n	mso-level-number-p
+	osition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	fon
+	t-family:Wingdings\;}\n@list l0:level7\n	{mso-level-number-format:bullet\;
+	\n	mso-level-text:\;\n	mso-level-tab-stop:252.0pt\;\n	mso-level-number-
+	position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	fo
+	nt-family:Wingdings\;}\n@list l0:level8\n	{mso-level-number-format:bullet\
+	;\n	mso-level-text:\;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number
+	-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	f
+	ont-family:Wingdings\;}\n@list l0:level9\n	{mso-level-number-format:bullet
+	\;\n	mso-level-text:\;\n	mso-level-tab-stop:324.0pt\;\n	mso-level-numbe
+	r-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	
+	font-family:Wingdings\;}\n@list l1\n	{mso-list-id:1697198728\;\n	mso-list-
+	template-ids:1842911690\;}\n@list l1:level1\n	{mso-level-number-format:bul
+	let\;\n	mso-level-text:\;\n	mso-level-tab-stop:36.0pt\;\n	mso-level-num
+	ber-position:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\
+	n	font-family:Symbol\;}\n@list l1:level2\n	{mso-level-number-format:bullet
+	\;\n	mso-level-text:o\;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-number-p
+	osition:left\;\n	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	fon
+	t-family:"Courier New"\;\n	mso-bidi-font-family:"Times New Roman"\;}\n@lis
+	t l1:level3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	m
+	so-level-tab-stop:108.0pt\;\n	mso-level-number-position:left\;\n	text-inde
+	nt:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@li
+	st l1:level4\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	
+	mso-level-tab-stop:144.0pt\;\n	mso-level-number-position:left\;\n	text-ind
+	ent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@l
+	ist l1:level5\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n
+		mso-level-tab-stop:180.0pt\;\n	mso-level-number-position:left\;\n	text-in
+	dent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@
+	list l1:level6\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\
+	n	mso-level-tab-stop:216.0pt\;\n	mso-level-number-position:left\;\n	text-i
+	ndent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n
+	@list l1:level7\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;
+	\n	mso-level-tab-stop:252.0pt\;\n	mso-level-number-position:left\;\n	text-
+	indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\
+	n@list l1:level8\n	{mso-level-number-format:bullet\;\n	mso-level-text:\
+	;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-position:left\;\n	text
+	-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}
+	\n@list l1:level9\n	{mso-level-number-format:bullet\;\n	mso-level-text:
+	\;\n	mso-level-tab-stop:324.0pt\;\n	mso-level-number-position:left\;\n	tex
+	t-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;
+	}\n@list l2\n	{mso-list-id:1970356176\;\n	mso-list-template-ids:-124948041
+	6\;}\n@list l2:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text
+	:\;\n	mso-level-tab-stop:36.0pt\;\n	mso-level-number-position:left\;\n	
+	text-indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Symbol\;
+	}\n@list l2:level2\n	{mso-level-number-format:bullet\;\n	mso-level-text:o\
+	;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-number-position:left\;\n	text-
+	indent:-18.0pt\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:"Courier New"
+	\;\n	mso-bidi-font-family:"Times New Roman"\;}\n@list l2:level3\n	{mso-lev
+	el-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:108.
+	0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-ans
+	i-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@list l2:level4\n	{mso-le
+	vel-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:144
+	.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-an
+	si-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@list l2:level5\n	{mso-l
+	evel-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:18
+	0.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-a
+	nsi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@list l2:level6\n	{mso-
+	level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:2
+	16.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso-
+	ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@list l2:level7\n	{mso
+	-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:
+	252.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	mso
+	-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@list l2:level8\n	{ms
+	o-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop
+	:288.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	ms
+	o-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\n@list l2:level9\n	{m
+	so-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-sto
+	p:324.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	m
+	so-ansi-font-size:10.0pt\;\n	font-family:Wingdings\;}\nol\n	{margin-bottom
+	:0cm\;}\nul\n	{margin-bottom:0cm\;}\n--></style><!--[if gte mso 10]><style
+	>/* Style Definitions */\ntable.MsoNormalTable\n	{mso-style-name:"Table No
+	rmal"\;\n	mso-tstyle-rowband-size:0\;\n	mso-tstyle-colband-size:0\;\n	mso-
+	style-noshow:yes\;\n	mso-style-priority:99\;\n	mso-style-parent:""\;\n	mso
+	-padding-alt:0cm 5.4pt 0cm 5.4pt\;\n	mso-para-margin:0cm\;\n	mso-paginatio
+	n:widow-orphan\;\n	font-size:10.0pt\;\n	font-family:"Times New Roman"\,ser
+	if\;}\n</style><![endif]--><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ex
+	t="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o
+	:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapela
+	yout></xml><![endif]--></head><body lang=en-IL link=blue vlink=purple styl
+	e='tab-interval:36.0pt\;word-wrap:break-word'><div class=WordSection1><h1>
+	<span style='font-size:16.0pt\;font-family:"David"\,sans-serif'> </span><b
+	><span style='font-size:24.0pt\;font-family:"Times New Roman"\,serif\;mso-
+	fareast-font-family:"Times New Roman"\;color:black\;mso-font-kerning:18.0p
+	t'>Future Data Driven Summit 2024<o:p></o:p></span></b></h1><ul type=disc>
+	<li class=MsoNormal style='color:black\;mso-margin-top-alt:auto\;mso-margi
+	n-bottom-alt:auto\;mso-list:l1 level1 lfo3\;tab-stops:list 36.0pt'><b><spa
+	n style='font-size:13.5pt\;font-family:"Times New Roman"\,serif\;mso-farea
+	st-font-family:"Times New Roman"'>Location:</span></b><span style='font-si
+	ze:13.5pt\;font-family:"Times New Roman"\,serif\;mso-fareast-font-family:"
+	Times New Roman"'>&nbsp\;Online |&nbsp\;<a href="https://bit.ly/fdd2024hub
+	">Join Here</a><o:p></o:p></span></li><li class=MsoNormal style='color:bla
+	ck\;mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;mso-list:l1 level
+	1 lfo3\;tab-stops:list 36.0pt'><b><span style='font-size:13.5pt\;font-fami
+	ly:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New Roman"'>Da
+	te &amp\; Time:</span></b><span style='font-size:13.5pt\;font-family:"Time
+	s New Roman"\,serif\;mso-fareast-font-family:"Times New Roman"'>&nbsp\;Sep
+	tember 25\, 2024\, at 09:00 AM Eastern Time (US &amp\; Canada).<o:p></o:p>
+	</span></li><li class=MsoNormal style='color:black\;mso-margin-top-alt:aut
+	o\;mso-margin-bottom-alt:auto\;mso-list:l1 level1 lfo3\;tab-stops:list 36.
+	0pt'><span style='font-size:13.5pt\;font-family:"Times New Roman"\,serif\;
+	mso-fareast-font-family:"Times New Roman"'>The meeting will open 30 minute
+	s early for check-ins and networking.<o:p></o:p></span></li></ul><div clas
+	s=MsoNormal align=center style='text-align:center'><span style='mso-fareas
+	t-font-family:"Times New Roman"'><hr size=2 width="100%" noshade style='co
+	lor:black' align=center></span></div><p class=MsoNormal style='mso-margin-
+	top-alt:auto\;mso-margin-bottom-alt:auto'><span style='font-size:13.5pt\;f
+	ont-family:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New Ro
+	man"\;color:black'>Thank you for registering for the Future Data Driven Su
+	mmit 2024! Your participation makes this event special.<o:p></o:p></span><
+	/p><p class=MsoNormal style='mso-margin-top-alt:auto\;mso-margin-bottom-al
+	t:auto\;mso-outline-level:3'><b><span style='font-size:13.5pt\;font-family
+	:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New Roman"\;colo
+	r:black'>About the Future Data Driven Summit<o:p></o:p></span></b></p><p c
+	lass=MsoNormal style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto'
+	><span style='font-size:13.5pt\;font-family:"Times New Roman"\,serif\;mso-
+	fareast-font-family:"Times New Roman"\;color:black'>An annual joint event 
+	of data platforms user groups focuses on cutting-edge data platforms and A
+	I technologies. This is our fourth edition\, bringing together industry ex
+	perts and enthusiasts worldwide.<o:p></o:p></span></p><p class=MsoNormal s
+	tyle='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;mso-outline-lev
+	el:3'><b><span style='font-size:13.5pt\;font-family:"Times New Roman"\,ser
+	if\;mso-fareast-font-family:"Times New Roman"\;color:black'>What to Expect
+	<o:p></o:p></span></b></p><p class=MsoNormal style='mso-margin-top-alt:aut
+	o\;mso-margin-bottom-alt:auto'><span style='font-size:13.5pt\;font-family:
+	"Times New Roman"\,serif\;mso-fareast-font-family:"Times New Roman"\;color
+	:black'>Learn from data and AI experts\, network and meet your peers\, and
+	 join raffles for swags/gifts and fun activities.<o:p></o:p></span></p><p 
+	class=MsoNormal style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto
+	\;mso-outline-level:3'><b><span style='font-size:13.5pt\;font-family:"Time
+	s New Roman"\,serif\;mso-fareast-font-family:"Times New Roman"\;color:blac
+	k'>How to Join<o:p></o:p></span></b></p><p class=MsoNormal style='mso-marg
+	in-top-alt:auto\;mso-margin-bottom-alt:auto'><span style='font-size:13.5pt
+	\;font-family:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New
+	 Roman"\;color:black'>Kick-off in the Hub virtual room at 9:00 AM Eastern 
+	Time (US &amp\; Canada). The opening session will provide an overview of t
+	he day's schedule and how to join sessions. The Hub room will remain open 
+	all day for information\, support\, and networking. It will also host the 
+	after-party and fun activities\, including swag giveaways. Check sessions 
+	schedule&nbsp\;<a href="https://datadrivencommunity.com/FutureDataDriven20
+	24.html">here</a>.<o:p></o:p></span></p><p class=MsoNormal style='mso-marg
+	in-top-alt:auto\;mso-margin-bottom-alt:auto\;mso-outline-level:3'><b><span
+	 style='font-size:13.5pt\;font-family:"Times New Roman"\,serif\;mso-fareas
+	t-font-family:"Times New Roman"\;color:black'>Need Support?<o:p></o:p></sp
+	an></b></p><p class=MsoNormal style='mso-margin-top-alt:auto\;mso-margin-b
+	ottom-alt:auto'><span style='font-size:13.5pt\;font-family:"Times New Roma
+	n"\,serif\;mso-fareast-font-family:"Times New Roman"\;color:black'>For tec
+	hnical issues during the event\, use the <span class=SpellE>QnA</span> in 
+	the&nbsp\;<a href="https://bit.ly/fdd2024hub">Hub room</a>. For questions 
+	before the event\, contact Ronen Ariely on&nbsp\;<a href="https://www.face
+	book.com/ronen.ariely">Facebook</a>&nbsp\;or&nbsp\;<a href="https://www.li
+	nkedin.com/in/pitoach/">LinkedIn</a>.<o:p></o:p></span></p><div class=MsoN
+	ormal align=center style='text-align:center'><span style='mso-fareast-font
+	-family:"Times New Roman"'><hr size=2 width="100%" noshade style='color:bl
+	ack' align=center></span></div><p class=MsoNormal style='mso-margin-top-al
+	t:auto\;mso-margin-bottom-alt:auto'><b><span style='font-size:13.5pt\;font
+	-family:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New Roman
+	"\;color:black'>Let's make the most of this event together! </span></b><b>
+	<span style='font-size:13.5pt\;font-family:"Segoe UI Emoji"\,sans-serif\;m
+	so-fareast-font-family:"Times New Roman"\;mso-bidi-font-family:"Segoe UI E
+	moji"\;color:black'>&#127881\;</span></b><span style='font-size:13.5pt\;fo
+	nt-family:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New Rom
+	an"\;color:black'><o:p></o:p></span></p><p class=MsoNormal style='mso-marg
+	in-top-alt:auto\;mso-margin-bottom-alt:auto'><span style='font-size:13.5pt
+	\;font-family:"Times New Roman"\,serif\;mso-fareast-font-family:"Times New
+	 Roman"\;color:black'>Thank you for registering! We look forward to seeing
+	 you on September 25th!<o:p></o:p></span></p><p><span style='font-size:16.
+	0pt\;font-family:"David"\,sans-serif'><o:p>&nbsp\;</o:p></span></p></div><
 	/body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
