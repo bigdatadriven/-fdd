@@ -311,7 +311,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .buy-tickets:hover {
-  background: none;
+  /* background: none; */
+  background: #010101;
   color: #fff;
 }
 
@@ -459,7 +460,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
 }
 
-
+/* We have different secsions presented for different resulotion */
 .Show1250px {
     display: block;
 }
@@ -647,6 +648,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   min-height:530px;
   background: url(../img/hero-bg.jpg) top center;
+  /* background: url(../../FutureDataDriven2025/FDD2025BG.png) top center; */
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -811,6 +813,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   border: 2px solid #f82249;
+  background: #010101;
 }
 
 #hero .about-btn:hover {
