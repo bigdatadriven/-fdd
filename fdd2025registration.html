@@ -134,6 +134,12 @@ IP
                     document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
                     alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                 }
+                else {
+                    document.querySelector("form").style.display = 'block';
+                }
+            }
+            else{
+                document.querySelector("form").style.display = 'block';
             }
         };
     </script>
@@ -158,7 +164,7 @@ IP
             <form
                 action="https://prod-09.northcentralus.logic.azure.com/workflows/a54d7e978dbd451bad1111359ec9c2a1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=xDqzM9K-GDUdYK3lK19Q_8kzujEI56FOHqYfGcz04Gg"
                 method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off"
-                onsubmit="handleSubmit(event)">
+                style="display: none;" onsubmit="handleSubmit(event)">
             
                 <div class="flex-container">
                     <div class="flex-items-one">
