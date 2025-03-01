@@ -96,47 +96,6 @@ IP
             font-size: larger;
         }
     </style>
-    <script>
-        // Function to handle form submission
-        function handleSubmit(event) {
-            // Get the current time
-            const currentTime = new Date().getTime();
-
-            // Check if the form was already submitted and if it's within 24 hours
-            if (localStorage.getItem('formSubmitted') === 'true') {
-                const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
-                const timeDiff = currentTime - lastSubmitTime;  // Time difference in milliseconds
-
-                // If less than 24 hours have passed, show an alert
-                if (timeDiff < 24 * 60 * 60 * 1000) {  // 24 hours in milliseconds
-                    alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
-                    event.preventDefault();  // Prevent form submission
-                    return;  // Exit the function
-                }
-            }
-
-            // If no issues, allow form submission and update localStorage
-            localStorage.setItem('formSubmitted', 'true');  // Set form submitted flag
-            localStorage.setItem('lastSubmitTime', currentTime);  // Set the current timestamp
-
-            // Optionally, you can disable the form or do something else
-            // document.querySelector("form").reset();  // Reset form after successful submission
-        }
-
-        // Check on page load if the form was submitted within the last 24 hours
-        window.onload = function () {
-            if (localStorage.getItem('formSubmitted') === 'true') {
-                const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
-                const currentTime = new Date().getTime();
-                const timeDiff = currentTime - lastSubmitTime;
-
-                if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
-                    alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
-                    document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
-                }
-            }
-        };
-    </script>
 </head>
 
 <body>
@@ -157,8 +116,7 @@ IP
         <div class="FormContainer">
             <form
                 action="https://prod-09.northcentralus.logic.azure.com/workflows/a54d7e978dbd451bad1111359ec9c2a1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=xDqzM9K-GDUdYK3lK19Q_8kzujEI56FOHqYfGcz04Gg"
-                method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off"
-                onsubmit="handleSubmit(event)">
+                method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off">
             
                 <div class="flex-container">
                     <div class="flex-items-one">
