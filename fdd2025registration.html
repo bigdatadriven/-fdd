@@ -131,8 +131,8 @@ IP
                 const timeDiff = currentTime - lastSubmitTime;
 
                 if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
-                    alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                     document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
+                    alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                 }
             }
         };
