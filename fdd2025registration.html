@@ -125,6 +125,7 @@ IP
 
         // Check on page load if the form was submitted within the last 24 hours
         window.onload = function () {
+            document.getElementById("qq").value = "98467";
             if (localStorage.getItem('formSubmitted') === 'true') {
                 const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
                 const currentTime = new Date().getTime();
@@ -140,7 +141,6 @@ IP
             }
             else{
                 document.querySelector("form").style.display = 'block';
-                document.getElementById("qq").value = "98467";
             }
         };
     </script>
@@ -241,7 +241,7 @@ IP
                     </div>
                 </div>
                 <div class="flex-container">
-                    <input type="hidden" name="qq" value="" access="false" id="qq">
+                    <input type="hidden" name="qq" value="" id="qq">
                     <input type="hidden" name="ConferenceYear" value="2025" access="false" id="ConferenceYear">
                     <div class="flex-items-three">
                         <button style="float: left;" type="submit" name="Submit" value="OK" access="false" id="Submit">Submit</button>
