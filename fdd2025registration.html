@@ -125,7 +125,7 @@ IP
 
         // Check on page load if the form was submitted within the last 24 hours
         window.onload = function () {
-            document.getElementById("qq").value = "98467";
+            document.getElementById("qq").value = "9437"; //98467
             if (localStorage.getItem('formSubmitted') === 'true') {
                 const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
                 const currentTime = new Date().getTime();
@@ -162,8 +162,12 @@ IP
     <div class="MainContainer">
 
         <div class="FormContainer">
+            <!--
+            https://prod-09.northcentralus.logic.azure.com/workflows/a54d7e978dbd451bad1111359ec9c2a1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=xDqzM9K-GDUdYK3lK19Q_8kzujEI56FOHqYfGcz04Gg
+            https://prod-24.northcentralus.logic.azure.com/workflows/f67f6fb00b2241ceaaa674e8ad5680f1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=ItfOyob6BLo0cW7ladz27TBISCii_Z8VV06WNvkuxHs
+            -->
             <form
-                action="https://prod-09.northcentralus.logic.azure.com/workflows/a54d7e978dbd451bad1111359ec9c2a1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=xDqzM9K-GDUdYK3lK19Q_8kzujEI56FOHqYfGcz04Gg"
+                action="https://prod-24.northcentralus.logic.azure.com/workflows/f67f6fb00b2241ceaaa674e8ad5680f1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=ItfOyob6BLo0cW7ladz27TBISCii_Z8VV06WNvkuxHs"
                 method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off"
                 style="display: none;" onsubmit="handleSubmit(event)">
             
@@ -253,24 +257,24 @@ IP
         </div>
         <div class="InfoContainer">
             <img src="./FutureDataDriven2025/FDD2025Banner_v02.png" alt="Future Data Driven Summit 2025" width="100%">
-            For more information check the 
+            For more information check the
             <a href="https://datadrivencommunity.com/FutureDataDriven2025.html" target="_blank"
                 rel="noopener"><strong>Conference's page</strong></a>
-                <br />
-                <!-- Click to Join the <a
-                href="https://communityselfadd.azurewebsites.net/GuestAdd/ZTNiZTdjYmEtMjI0ZS00ZDc3LWIzODEtMGQ1OWVkYTZhZWY0"
-                target="_blank"
-                rel="noopener"><strong>Data Driven Community on Teams</strong></a> -->
-                <p style="background-color: rgb(191, 242, 242); max-width: 1100px;">
-                    <strong>Don&rsquo;t miss out!</strong>Join us at the Fourth FREE Online
-                    Annual Summit 2025 of the&nbsp;<strong>Data driven Community</strong>, where the worlds of data and AI
-                    converge. Explore the latest trends in data architecture, data management, data development, data analytics,
-                    data science, data visualization,&nbsp;data exploration,&nbsp;data integration&nbsp;and&nbsp;data migration.
-                    Experience the power of artificial intelligence&nbsp;&amp;&nbsp;machine learning, Discover innovative data
-                    tools and solutions that can transform your business. This is more than just an event - it&rsquo;s a gateway
-                    to the future of data!
-                </p>
-                <p style="font-weight: bold; color: #68330d;">* Registration will add you to the community Distribution List.</p>
+            <br />
+            <!-- Click to Join the <a
+                        href="https://communityselfadd.azurewebsites.net/GuestAdd/ZTNiZTdjYmEtMjI0ZS00ZDc3LWIzODEtMGQ1OWVkYTZhZWY0"
+                        target="_blank"
+                        rel="noopener"><strong>Data Driven Community on Teams</strong></a> -->
+            <p style="background-color: rgb(191, 242, 242); max-width: 1100px;">
+                <strong>Don&rsquo;t miss out!</strong>Join us at the Fourth FREE Online
+                Annual Summit 2025 of the&nbsp;<strong>Data driven Community</strong>, where the worlds of data and AI
+                converge. Explore the latest trends in data architecture, data management, data development, data analytics,
+                data science, data visualization,&nbsp;data exploration,&nbsp;data integration&nbsp;and&nbsp;data migration.
+                Experience the power of artificial intelligence&nbsp;&amp;&nbsp;machine learning, Discover innovative data
+                tools and solutions that can transform your business. This is more than just an event - it&rsquo;s a gateway
+                to the future of data!
+            </p>
+            <p style="font-weight: bold; color: #68330d;">* Registration will add you to the community Distribution List.</p>
         </div>
 
     </div>
