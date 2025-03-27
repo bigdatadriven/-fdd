@@ -126,22 +126,23 @@ IP
         // Check on page load if the form was submitted within the last 24 hours
         window.onload = function () {
             document.getElementById("qq").value = "38734"; //98467, 9437, 2845
-            if (localStorage.getItem('formSubmitted') === 'true') {
-                const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
-                const currentTime = new Date().getTime();
-                const timeDiff = currentTime - lastSubmitTime;
 
-                if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
-                    document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
-                    alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
-                }
-                else {
-                    document.querySelector("form").style.display = 'block';
-                }
-            }
-            else{
-                document.querySelector("form").style.display = 'block';
-            }
+            // if (localStorage.getItem('formSubmitted') === 'true') {
+            //     const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
+            //     const currentTime = new Date().getTime();
+            //     const timeDiff = currentTime - lastSubmitTime;
+
+            //     if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
+            //         document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
+            //         alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
+            //     }
+            //     else {
+            //         document.querySelector("form").style.display = 'block';
+            //     }
+            // }
+            // else{
+            //     document.querySelector("form").style.display = 'block';
+            // }
         };
     </script>
 </head>
@@ -149,6 +150,9 @@ IP
 <body>
     <div>
         <h1 access="false" id="control-3475766">Future Data Driven summit 2025: Registration</h1>
+    </div>
+    <div style="background-color: rgb(191, 242, 242); max-width: 1100px;">
+        We are currently experiencing a technical issue with the registration for the Future Data Driven Summit 2025. Our team is working to resolve it, and we expect it to be fixed after the weekend. Please try again later. We apologize for the inconvenience and appreciate your patience!
     </div>
     <!-- <div style="background-color: rgb(191, 242, 242); max-width: 1100px;">
         <strong>Don&rsquo;t miss out!</strong>Join us at the Fourth FREE Online
@@ -165,8 +169,9 @@ IP
             <form
                 action="https://prod-24.northcentralus.logic.azure.com/workflows/f67f6fb00b2241ceaaa674e8ad5680f1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=ItfOyob6BLo0cW7ladz27TBISCii_Z8VV06WNvkuxHs"
                 method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off"
-                style="display: none;" onsubmit="handleSubmit(event)">
-            
+                style="display: none;" >
+                <!-- onsubmit="handleSubmit(event)" -->
+
                 <div class="flex-container">
                     <div class="flex-items-one">
                         <input name="coc" access="false" id="coc-0" required="required" aria-required="true" value="Accepted"
