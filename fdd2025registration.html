@@ -120,29 +120,29 @@ IP
             localStorage.setItem('lastSubmitTime', currentTime);  // Set the current timestamp
 
             // Optionally, you can disable the form or do something else
-            // document.querySelector("form").reset();  // Reset form after successful submission
+            document.querySelector("form").reset();  // Reset form after successful submission
         }
 
         // Check on page load if the form was submitted within the last 24 hours
         window.onload = function () {
             document.getElementById("qq").value = "38734"; //98467, 9437, 2845
 
-            // if (localStorage.getItem('formSubmitted') === 'true') {
-            //     const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
-            //     const currentTime = new Date().getTime();
-            //     const timeDiff = currentTime - lastSubmitTime;
+            if (localStorage.getItem('formSubmitted') === 'true') {
+                const lastSubmitTime = parseInt(localStorage.getItem('lastSubmitTime'), 10);
+                const currentTime = new Date().getTime();
+                const timeDiff = currentTime - lastSubmitTime;
 
-            //     if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
-            //         document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
-            //         alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
-            //     }
-            //     else {
-            //         document.querySelector("form").style.display = 'block';
-            //     }
-            // }
-            // else{
-            //     document.querySelector("form").style.display = 'block';
-            // }
+                if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
+                    document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
+                    alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
+                }
+                else {
+                    document.querySelector("form").style.display = 'block';
+                }
+            }
+            else{
+                document.querySelector("form").style.display = 'block';
+            }
         };
     </script>
 </head>
@@ -151,25 +151,16 @@ IP
     <div>
         <h1 access="false" id="control-3475766">Future Data Driven summit 2025: Registration</h1>
     </div>
-    <div style="background-color: #ffcc00; color: #b30000; font-size: 24px; font-weight: bold; text-align: center; padding: 20px; border: 3px solid #b30000; border-radius: 10px; margin: 20px;">
+    <!-- <div style="background-color: #ffcc00; color: #b30000; font-size: 24px; font-weight: bold; text-align: center; padding: 20px; border: 3px solid #b30000; border-radius: 10px; margin: 20px;">
         🚨 <strong>Important Notice:</strong> We are experiencing technical issues with registration.  
         Our team is working on it, and we expect a fix after the weekend.  
         Please try again later. We apologize for the inconvenience! 🙏
-    </div>
-    <!-- <div style="background-color: rgb(191, 242, 242); max-width: 1100px;">
-        <strong>Don&rsquo;t miss out!</strong>Join us at the Fourth FREE Online
-        Annual Summit 2024 of the&nbsp;<strong>Data driven Community</strong>, where the worlds of data and AI
-        converge. Explore the latest trends in data architecture, data management, data development, data analytics,
-        data science, data visualization,&nbsp;data exploration,&nbsp;data integration&nbsp;and&nbsp;data migration.
-        Experience the power of artificial intelligence&nbsp;&amp;&nbsp;machine learning, Discover innovative data
-        tools and solutions that can transform your business. This is more than just an event - it&rsquo;s a gateway
-        to the future of data!
     </div> -->
     <div class="MainContainer">
 
         <div class="FormContainer">
             <form
-                action="https://prod-24.northcentralus.logic.azure.com/workflows/f67f6fb00b2241ceaaa674e8ad5680f1/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=ItfOyob6BLo0cW7ladz27TBISCii_Z8VV06WNvkuxHs"
+                action="https://prod-10.northcentralus.logic.azure.com/workflows/623112de2658494c925beea36a8b8d88/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=QwQPGvqmc126_iUV6zBKUWsrgAv0qk2IjpvBHKEbODI"
                 method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off"
                 style="display: none;" >
                 <!-- onsubmit="handleSubmit(event)" -->
