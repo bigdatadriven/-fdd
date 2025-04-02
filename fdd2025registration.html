@@ -108,7 +108,9 @@ IP
                 const timeDiff = currentTime - lastSubmitTime;  // Time difference in milliseconds
 
                 // If less than 24 hours have passed, show an alert
-                if (timeDiff < 24 * 60 * 60 * 1000) {  // 24 hours in milliseconds
+                if (timeDiff < 60 * 60 * 1000) {  
+                    // 24 * 60 * 60 * 1000 = 24 hours in milliseconds
+                    // 60 * 60 * 1000 = one hour
                     alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                     event.preventDefault();  // Prevent form submission
                     return;  // Exit the function
@@ -132,7 +134,9 @@ IP
                 const currentTime = new Date().getTime();
                 const timeDiff = currentTime - lastSubmitTime;
 
-                if (timeDiff < 24 * 60 * 60 * 1000) {  // Less than 24 hours
+                if (timeDiff < 60 * 60 * 1000) {  
+                    // 24 * 60 * 60 * 1000 = 24 hours in milliseconds
+                    // 60 * 60 * 1000 = one hour
                     document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
                     alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                 }
@@ -162,8 +166,8 @@ IP
             <form
                 action="https://prod-10.northcentralus.logic.azure.com/workflows/623112de2658494c925beea36a8b8d88/triggers/When_a_HTTP_request_is_received/paths/invoke/99999/?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=QwQPGvqmc126_iUV6zBKUWsrgAv0qk2IjpvBHKEbODI"
                 method="post" name="FDD2025-regisration" id="FDD2025-regisration" accept-charset="utf-8" autocomplete="off"
-                style="display: none;" >
-                <!-- onsubmit="handleSubmit(event)" -->
+                style="display: none;" onsubmit="handleSubmit(event)" >
+                <!--  -->
 
                 <div class="flex-container">
                     <div class="flex-items-one">
