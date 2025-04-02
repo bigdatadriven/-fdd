@@ -108,9 +108,9 @@ IP
                 const timeDiff = currentTime - lastSubmitTime;  // Time difference in milliseconds
 
                 // If less than 24 hours have passed, show an alert
-                if (timeDiff < 60 * 60 * 1000) {  
+                if (timeDiff < 60 * 1000) {  
                     // 24 * 60 * 60 * 1000 = 24 hours in milliseconds
-                    // 60 * 60 * 1000 = one hour
+                    // 60 * 1000 = 60 min
                     alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                     event.preventDefault();  // Prevent form submission
                     return;  // Exit the function
@@ -134,9 +134,9 @@ IP
                 const currentTime = new Date().getTime();
                 const timeDiff = currentTime - lastSubmitTime;
 
-                if (timeDiff < 60 * 60 * 1000) {  
+                if (timeDiff < 60 * 1000) {  
                     // 24 * 60 * 60 * 1000 = 24 hours in milliseconds
-                    // 60 * 60 * 1000 = one hour
+                    // 60 * 1000 = 60 min
                     document.querySelector("form").style.display = 'none';  // Hide the form if already submitted
                     alert("If you'd like to edit your registration, please contact the event team. The form submission is currently unavailable, but you can try again in about 24 hours. Contact details can be found on the event page.");
                 }
