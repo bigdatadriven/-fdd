@@ -978,7 +978,7 @@ h1, h2, h3, h4, h5, h6 {
         position: relative;
         overflow: hidden;
         /* margin-bottom: 30px; */
-        padding-bottom: 60px;
+        padding-bottom: 20px;
     }
 
     #speakers .speaker .details, #organizers .speaker .details {
