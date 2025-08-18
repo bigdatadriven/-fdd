@@ -109,30 +109,59 @@ body {
     border: none;
     /*frameborder ="0" style="width: 97%; height: 6000px; overflow-y: hidden;"*/
 }
-
 @media (max-width: 1300px) {
     .SessionsIframe {
         height: 2700px;
     }
 }
-
 @media (max-width: 1140px) {
     .SessionsIframe {
         height: 2900px;
     }
 }
-
 @media (max-width: 1000px) {
     .SessionsIframe {
         height: 3100px;
     }
 }
-
 @media (max-width: 880px) {
     .SessionsIframe {
         height: 3300px;
     }
 }
+
+
+
+.SessionsIframe2025 {
+  width: 97%;
+  min-width: 880px;
+  height: 2300px;
+  /*height: calc(50% + 1250px);*/
+  overflow-y: hidden;
+  border: none;
+  /*frameborder ="0" style="width: 97%; height: 6000px; overflow-y: hidden;"*/
+}
+@media (max-width: 1300px) {
+  .SessionsIframe2025 {
+      height: 3400px;
+  }
+}
+@media (max-width: 1140px) {
+  .SessionsIframe2025 {
+      height: 3700px;
+  }
+}
+@media (max-width: 1000px) {
+  .SessionsIframe2025 {
+      height: 4000px;
+  }
+}
+@media (max-width: 880px) {
+  .SessionsIframe2025 {
+      height: 4200px;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # General
