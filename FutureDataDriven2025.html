@@ -457,7 +457,7 @@
 
         <!-- ======= Sessions schedule Section ======= -->
         <a name="Fddd2023Sessions" id="Fddd2023Sessions"></a>
-        <!-- sessions are puuled from https://sessionize.com/ -->
+        <!-- sessions are pulled from https://sessionize.com/ -->
         <section id="Sessions" class="section-with-bg">
 
             <div class="container" style="text-align: center;">
@@ -492,9 +492,94 @@
                     class="SessionsIframe2025" 
                     srcdoc="<body style='overflow-y: hidden;'><script type='text/javascript' src='https://sessionize.com/api/v2/87s6dv3b/view/GridSmart'></script></body>">
             </iframe>
-        </section>
+            
+
+            <script>
+                /*
+                  ISSUE:
+                  The iframe contains dynamically loaded content from an external API (Sessionize grid).
+                  Fixed CSS heights inside the iframe break when the user zooms or has different screen resolutions.
+                  Also, the content is loaded asynchronously, so measuring height immediately on load often gives wrong results.
+                  
+                  SOLUTION:
+                  - Use JavaScript in the parent page to dynamically adjust the iframe height based on its actual content.
+                  - Observe DOM changes inside the iframe to catch when the API script adds content.
+                  - Schedule multiple delayed height measurements to ensure we capture the final rendered layout.
+                  - Also resize on window resize/zoom to handle user changes.
+                */
+                
+                function resizeSessionsIframe() {
+                  const iframe = document.getElementById('SessionsIframe');
+                  if (!iframe) return;
+                
+                  try {
+                    // Get the body of the iframe content
+                    const body = iframe.contentWindow.document.body;
+                    const newHeight = body.scrollHeight;
+                
+                    // Only update if height is different and greater than 0
+                    if (newHeight > 0 && iframe.style.height !== newHeight + 'px') {
+                      iframe.style.height = newHeight + 'px';
+                    }
+                  } catch (e) {
+                    // If the iframe is not accessible yet (should not happen for same-origin), log a warning
+                    console.warn('Cannot access iframe content yet', e);
+                  }
+                }
+                
+                // Run once after iframe loads
+                document.getElementById('SessionsIframe').addEventListener('load', () => {
+                  const iframe = document.getElementById('SessionsIframe');
+                  const body = iframe.contentWindow.document.body;
+                
+                  // Create a MutationObserver to detect changes in the iframe content
+                  const observer = new MutationObserver(() => {
+                    // Schedule multiple height measurements to ensure layout has finished
+                    setTimeout(resizeSessionsIframe, 100);
+                    setTimeout(resizeSessionsIframe, 200);
+                    setTimeout(resizeSessionsIframe, 300);
+                  });
+                
+                  // Observe the entire body and its descendants for any added/removed nodes
+                  observer.observe(body, { childList: true, subtree: true });
+                
+                  // Initial resize in case some content is already present
+                  resizeSessionsIframe();
+                });
+                
+                // Also resize when the user resizes the window or changes zoom
+                window.addEventListener('resize', resizeSessionsIframe);
+                </script>
 
 
+            <!-- DEBUG SCRIPT!-->
+                <!-- <script>
+                    function showViewportWidth() {
+                      let w = window.innerWidth;
+                      let h = window.innerHeight;
+                    
+                      let box = document.getElementById('viewport-debug');
+                      if (!box) {
+                        box = document.createElement('div');
+                        box.id = 'viewport-debug';
+                        box.style.position = 'fixed';
+                        box.style.bottom = '10px';
+                        box.style.right = '10px';
+                        box.style.background = 'black';
+                        box.style.color = 'lime';
+                        box.style.padding = '6px 10px';
+                        box.style.fontSize = '14px';
+                        box.style.zIndex = '99999';
+                        box.style.fontFamily = 'monospace';
+                        document.body.appendChild(box);
+                      }
+                    
+                      box.textContent = `Viewport: ${w}px × ${h}px`;
+                    }
+                    
+                    showViewportWidth();
+                    window.addEventListener('resize', showViewportWidth);
+                </script> -->
 
 
         <!-- ======= Board Organizer Section ======= -->
@@ -948,15 +1033,16 @@
                         <div class="supporter-logo" style=" height: 250px;">
                             <a href="https://queueassoc.com/" target="_blank">
                                 <img src="assets/img/supporters/Queue_Associates.jpg"
-                                style="height: 220px;" class="img-fluid" alt="">
+                                style="height: 220px;" class="img-fluid" alt="Queue Associates">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5 col-xs-6">
                         <div class="supporter-logo" style=" height: 250px;">
-                            <!-- <a href="https://seabecksystems.com/" target="_blank">
-                                <img src="assets/img/supporters/SeabeckSystems.png" style="height: 220px;" class="img-fluid" alt="">
-                            </a> -->
+                            <a href="https://www.emazzanti.net/" target="_blank">
+                                <img src="assets/img/supporters/emazzanti.jpg" 
+                                style="height: 220px;" class="img-fluid" alt="emazzanti">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -1000,6 +1086,7 @@
 
         </section>
         <!-- End Sponsors Section -->
+
         <!-- ======= Subscribe Section ======= -->
         <!--<section id="subscribe">
         <div class="container" data-aos="zoom-in">
@@ -1025,6 +1112,7 @@
         </div>
     </section>-->
         <!-- End Subscribe Section -->
+
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="section-bg">
 
@@ -1089,7 +1177,8 @@
                     </div>
             -->
             </div>
-        </section><!-- End Contact Section -->
+        </section>
+        <!-- End Contact Section -->
 
     </main><!-- End #main -->
     <!-- ======= Footer ======= -->

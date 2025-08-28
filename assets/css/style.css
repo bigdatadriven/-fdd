@@ -135,7 +135,7 @@ body {
 .SessionsIframe2025 {
   width: 97%;
   min-width: 880px;
-  height: 2300px;
+  height: 500vh;
   /*height: calc(50% + 1250px);*/
   overflow-y: hidden;
   border: none;
@@ -143,24 +143,59 @@ body {
 }
 @media (max-width: 1300px) {
   .SessionsIframe2025 {
-      height: 3400px;
+      /* height: 3400px; */
+      height: 580vh;
   }
 }
 @media (max-width: 1140px) {
   .SessionsIframe2025 {
-      height: 3700px;
+      /* height: 3700px; */
+      height: 660vh;
   }
 }
 @media (max-width: 1000px) {
   .SessionsIframe2025 {
-      height: 4000px;
+      /* height: 4000px; */
+      height: 840vh;
   }
 }
-@media (max-width: 880px) {
+@media (max-width: 830px) {
   .SessionsIframe2025 {
-      height: 4200px;
+      /* height: 4200px; */
+      height: 1060vh;
   }
 }
+@media (max-width: 720px) {
+  .SessionsIframe2025 {
+      /* height: 4200px; */
+      height: 1250vh;
+  }
+}
+@media (max-width: 620px) {
+  .SessionsIframe2025 {
+      /* height: 4200px; */
+      height: 1410vh;
+  }
+}
+@media (max-width: 500px) {
+  .SessionsIframe2025 {
+      /* height: 4200px; */
+      height: 1760vh;
+  }
+}
+@media (max-width: 420px) {
+  .SessionsIframe2025 {
+      /* height: 4200px; */
+      height: 2110vh;
+  }
+}
+@media (max-width: 320px) {
+  .SessionsIframe2025 {
+      /* height: 4200px; */
+      height: 2810vh;
+  }
+}
+
 
 
 /*--------------------------------------------------------------
