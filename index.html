@@ -322,60 +322,6 @@
         </div>-->
     </section>
     <!-- End Hero Section -->
-<!--#####################################################################-->
-    <!-- ======= Announcements Section ======= -->
-    <!-- 
-        NOTE: This section uses XMLHttpRequest to load messages.json.
-        If this does not display locally, it is due to browser security 
-        policies on the file:// protocol, not the code itself.
-        The code is correct and will work automatically when deployed to GitHub.
-        If the announcements section is blank locally:
-        (1) Close all Edge windows.
-        (2) Run this in the Command Prompt to launch a secure test window:
-        msedge.exe --user-data-dir="C:/temp-edge" --disable-web-security
-        (3) This is required because the browser blocks XMLHttpRequest/fetch requests on file:/// protocols by default. The site code is correct and works automatically on GitHub Pages without this flag.
-    -->
-    <a name="IndexAnnouncements" id="IndexAnnouncements"></a>
-    <section id="Announcements" style="display: none;">
-        <div class="container" data-aos="fade-up">
-            <h1>Announcements</h1>
-            <div id="dynamic-messages-container" class="row">
-                <!-- Content injected here -->
-            </div>
-        </div>
-    </section>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            fetch(`./messages.json?t=${Date.now()}`)
-                .then(response => {
-                    if (!response.ok) throw new Error();
-                    return response.json();
-                })
-                .then(data => {
-                    if (data && data.length > 0) {
-                        const container = document.getElementById('dynamic-messages-container');
-                        const section = document.getElementById('Announcements');
-                        
-                        data.forEach(item => {
-                            if (item.text) {
-                                const div = document.createElement('div');
-                                div.className = 'col-lg-12 mb-3';
-                                div.innerHTML = `<div style="background:#f8f9fa; padding:20px; border-left:5px solid #007bff;">${item.text}</div>`;
-                                container.appendChild(div);
-                            }
-                        });
-    
-                        if (container.children.length > 0) {
-                            section.style.display = 'block';
-                        }
-                    }
-                })
-                .catch(() => {
-                    // Silent catch - leaves section hidden on file or syntax errors
-                });
-        });
-    </script>
-    <!-- End Announcements Section -->
     <!--#####################################################################-->
     <!-- ======= Upcoming events Section ======= -->
     <a name="IndexUpcoming" id="IndexUpcoming"></a>
@@ -470,7 +416,62 @@
         </div>
     </section>
     <!-- End Upcoming events Section -->
-
+    <!--#####################################################################-->
+    <!-- ======= Announcements Section ======= -->
+    <!-- 
+        NOTE: This section uses XMLHttpRequest to load messages.json.
+        If this does not display locally, it is due to browser security 
+        policies on the file:// protocol, not the code itself.
+        The code is correct and will work automatically when deployed to GitHub.
+        If the announcements section is blank locally:
+        (1) Close all Edge windows.
+        (2) Run this in the Command Prompt to launch a secure test window:
+        msedge.exe --user-data-dir="C:/temp-edge" --disable-web-security
+        (3) This is required because the browser blocks XMLHttpRequest/fetch requests on file:/// protocols by default. The site code is correct and works automatically on GitHub Pages without this flag.
+    -->
+    <a name="IndexAnnouncements" id="IndexAnnouncements"></a>
+    <section id="Announcements" style="display: none;">
+        <div class="container" data-aos="fade-up">
+            <h1>Announcements</h1>
+            <div id="dynamic-messages-container" class="row">
+                <!-- Content injected here -->
+            </div>
+        </div>
+    </section>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch(`./messages.json?t=${Date.now()}`)
+                .then(response => {
+                    if (!response.ok) throw new Error();
+                    return response.json();
+                })
+                .then(data => {
+                    if (data && data.length > 0) {
+                        const container = document.getElementById('dynamic-messages-container');
+                        const section = document.getElementById('Announcements');
+                        
+                        data.forEach(item => {
+                            if (item.text) {
+                                const div = document.createElement('div');
+                                div.className = 'col-lg-12 mb-3';
+                                div.innerHTML = `<div style="background:#f8f9fa; padding:20px; border-left:5px solid #007bff;">${item.text}</div>`;
+                                container.appendChild(div);
+                            }
+                        });
+    
+                        if (container.children.length > 0) {
+                            section.style.display = 'block';
+                        }
+                    }
+                })
+                .catch(() => {
+                    // Silent catch - leaves section hidden on file or syntax errors
+                });
+        });
+    </script>
+    <!-- End Announcements Section -->
+    <!--#####################################################################-->
+    
     <main id="main">
 
 
